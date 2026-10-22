@@ -1,0 +1,21 @@
+{
+  "judge": "A",
+  "model": "claude-sonnet-4-6",
+  "sampling": "temperature=0",
+  "system_prompt": "You are an expert research-literature reviewer assessing whether a proposed research gap is genuine. You are given two research topics and a sample of recent literature retrieved for their intersection. Decide using ONLY that evidence plus your own domain knowledge.\n\nA gap is GENUINE if the specific intersection of the two topics is materially under-researched. It is ALREADY ADDRESSED if the retrieved literature contains work that directly studies that intersection.\n\nReturn ONLY a JSON object, no prose, with exactly these keys:\n  \"genuine_gap\": \"yes\" or \"no\"\n  \"already_addressed\": \"yes\" or \"no\"\n  \"addressing_paper_ids\": array of evidence ids (e.g. [\"P1\",\"P4\"]), [] if none\n  \"meaningful\": integer 1-5 (is the research direction worth pursuing)\n  \"evidence_sufficient\": integer 1-5 (was the retrieved evidence enough to judge)\n  \"importance\": integer 1-10 (importance of this gap relative to others in the field)\n  \"rationale\": one or two sentences\n",
+  "query_prompt": "Topics:\nA: drug, compounds, features, methods, data, ai\nB: data, dropout, price, model, regressor, customer\nWrite ONE literature-search query to find papers addressing BOTH topics together. Reply with the query only, no quotes, no prose.",
+  "search_query": "(drug OR compound OR pharmaceutical) AND (dropout OR churn OR customer retention) AND (machine learning OR predictive model OR regression) AND (pricing OR cost OR reimbursement) AND (data OR features ",
+  "evidence": [],
+  "user_prompt": "TOPIC A: drug / compounds / features\nkeywords: drug, compounds, features, methods, data, ai\nTOPIC B: data / dropout / price\nkeywords: data, dropout, price, model, regressor, customer\n\nProposed gap: the intersection of Topic A and Topic B is under-researched.\n\nSEARCH QUERY YOU WROTE: (drug OR compound OR pharmaceutical) AND (dropout OR churn OR customer retention) AND (machine learning OR predictive model OR regression) AND (pricing OR cost OR reimbursement) AND (data OR features \nRECENT LITERATURE RETRIEVED (0 papers, 2021+):\n[]",
+  "raw_response": "```json\n{\n  \"genuine_gap\": \"yes\",\n  \"already_addressed\": \"no\",\n  \"addressing_paper_ids\": [],\n  \"meaningful\": 2,\n  \"evidence_sufficient\": 1,\n  \"importance\": 2,\n  \"rationale\": \"No literature was retrieved at this intersection, but the combination of drug/compound features with customer dropout/pricing models appears to be a poorly defined or artificially constructed research niche rather than a coherent scientific gap. The topics (pharmaceutical compound characterization and customer churn/price regression modeling) do not naturally intersect in a meaningful research domain, suggesting the proposed gap may reflect a lack of relevance rather than a genuine under-researched area.\"\n}\n```",
+  "parsed": {
+    "genuine_gap": "yes",
+    "already_addressed": "no",
+    "addressing_paper_ids": [],
+    "meaningful": 2,
+    "evidence_sufficient": 1,
+    "importance": 2,
+    "rationale": "No literature was retrieved at this intersection, but the combination of drug/compound features with customer dropout/pricing models appears to be a poorly defined or artificially constructed research niche rather than a coherent scientific gap. The topics (pharmaceutical compound characterization and customer churn/price regression modeling) do not naturally intersect in a meaningful research domain, suggesting the proposed gap may reflect a lack of relevance rather than a genuine under-researched area."
+  },
+  "error": null
+}

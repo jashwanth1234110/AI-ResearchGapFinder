@@ -1,0 +1,21 @@
+{
+  "judge": "A",
+  "model": "claude-sonnet-4-6",
+  "sampling": "temperature=0",
+  "system_prompt": "You are an expert research-literature reviewer assessing whether a proposed research gap is genuine. You are given two research topics and a sample of recent literature retrieved for their intersection. Decide using ONLY that evidence plus your own domain knowledge.\n\nA gap is GENUINE if the specific intersection of the two topics is materially under-researched. It is ALREADY ADDRESSED if the retrieved literature contains work that directly studies that intersection.\n\nReturn ONLY a JSON object, no prose, with exactly these keys:\n  \"genuine_gap\": \"yes\" or \"no\"\n  \"already_addressed\": \"yes\" or \"no\"\n  \"addressing_paper_ids\": array of evidence ids (e.g. [\"P1\",\"P4\"]), [] if none\n  \"meaningful\": integer 1-5 (is the research direction worth pursuing)\n  \"evidence_sufficient\": integer 1-5 (was the retrieved evidence enough to judge)\n  \"importance\": integer 1-10 (importance of this gap relative to others in the field)\n  \"rationale\": one or two sentences\n",
+  "query_prompt": "Topics:\nA: brain, age, brain age, image, disease, deep\nB: drug, compounds, features, methods, data, ai\nWrite ONE literature-search query to find papers addressing BOTH topics together. Reply with the query only, no quotes, no prose.",
+  "search_query": "(brain age OR neuroimaging OR brain imaging) AND (deep learning OR artificial intelligence OR AI) AND (drug discovery OR compound screening OR disease classification) AND (age-related disease OR neuro",
+  "evidence": [],
+  "user_prompt": "TOPIC A: brain / age / brain age\nkeywords: brain, age, brain age, image, disease, deep\nTOPIC B: drug / compounds / features\nkeywords: drug, compounds, features, methods, data, ai\n\nProposed gap: the intersection of Topic A and Topic B is under-researched.\n\nSEARCH QUERY YOU WROTE: (brain age OR neuroimaging OR brain imaging) AND (deep learning OR artificial intelligence OR AI) AND (drug discovery OR compound screening OR disease classification) AND (age-related disease OR neuro\nRECENT LITERATURE RETRIEVED (0 papers, 2021+):\n[]",
+  "raw_response": "```json\n{\n  \"genuine_gap\": \"yes\",\n  \"already_addressed\": \"no\",\n  \"addressing_paper_ids\": [],\n  \"meaningful\": 4,\n  \"evidence_sufficient\": 2,\n  \"importance\": 6,\n  \"rationale\": \"The retrieved literature returned no papers directly addressing the intersection of brain age estimation and drug/compound discovery or screening, suggesting this is a genuine gap. However, the evidence base is insufficient (zero papers retrieved), so the assessment relies heavily on domain knowledge rather than empirical confirmation from the search.\"\n}\n```",
+  "parsed": {
+    "genuine_gap": "yes",
+    "already_addressed": "no",
+    "addressing_paper_ids": [],
+    "meaningful": 4,
+    "evidence_sufficient": 2,
+    "importance": 6,
+    "rationale": "The retrieved literature returned no papers directly addressing the intersection of brain age estimation and drug/compound discovery or screening, suggesting this is a genuine gap. However, the evidence base is insufficient (zero papers retrieved), so the assessment relies heavily on domain knowledge rather than empirical confirmation from the search."
+  },
+  "error": null
+}

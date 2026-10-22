@@ -1,0 +1,9 @@
+{
+  "judgment_input_tokens": 2587,
+  "query_input_tokens": 59,
+  "papers": 10,
+  "sample_candidate": {
+    "topic_a": "ocean / climate / change",
+    "topic_b": "underwater / imaging / image"
+  }
+}

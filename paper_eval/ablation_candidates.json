@@ -1,0 +1,5152 @@
+{
+  "medical imaging": {
+    "full": [
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "unet / architecture / network",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "unet",
+          "architecture",
+          "network",
+          "semantic",
+          "convolutional",
+          "proposed"
+        ],
+        "size_a": 61,
+        "size_b": 31,
+        "bridge_papers": 293,
+        "prominence": 0.18
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "semisupervised / unlabeled / data",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "semisupervised",
+          "unlabeled",
+          "data",
+          "consistency",
+          "unlabeled data",
+          "learning"
+        ],
+        "size_a": 61,
+        "size_b": 24,
+        "bridge_papers": 291,
+        "prominence": 0.17
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "contrastive / learning / data",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "contrastive",
+          "learning",
+          "data",
+          "semisupervised",
+          "labeled",
+          "contrastive learning"
+        ],
+        "size_a": 61,
+        "size_b": 18,
+        "bridge_papers": 289,
+        "prominence": 0.15
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "domain / adaptation / source",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "domain",
+          "adaptation",
+          "source",
+          "domains",
+          "domain adaptation",
+          "target"
+        ],
+        "size_a": 61,
+        "size_b": 17,
+        "bridge_papers": 292,
+        "prominence": 0.14
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "sam / segment / segment model",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "sam",
+          "segment",
+          "segment model",
+          "model",
+          "models",
+          "model sam"
+        ],
+        "size_a": 61,
+        "size_b": 16,
+        "bridge_papers": 293,
+        "prominence": 0.14
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "3d / volumetric / network",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "3d",
+          "volumetric",
+          "network",
+          "nnunet",
+          "search",
+          "2d"
+        ],
+        "size_a": 61,
+        "size_b": 16,
+        "bridge_papers": 293,
+        "prominence": 0.13
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "annotations / annotation / learning",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "annotations",
+          "annotation",
+          "learning",
+          "training",
+          "models",
+          "supervision"
+        ],
+        "size_a": 61,
+        "size_b": 14,
+        "bridge_papers": 292,
+        "prominence": 0.13
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "deep / deep learning / learning",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "deep",
+          "deep learning",
+          "learning",
+          "images",
+          "review",
+          "based deep"
+        ],
+        "size_a": 61,
+        "size_b": 11,
+        "bridge_papers": 292,
+        "prominence": 0.11
+      }
+    ],
+    "recency_off": [
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "unet / architecture / network",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "unet",
+          "architecture",
+          "network",
+          "semantic",
+          "convolutional",
+          "proposed"
+        ],
+        "size_a": 61,
+        "size_b": 31,
+        "bridge_papers": 293,
+        "prominence": 0.15
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "semisupervised / unlabeled / data",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "semisupervised",
+          "unlabeled",
+          "data",
+          "consistency",
+          "unlabeled data",
+          "learning"
+        ],
+        "size_a": 61,
+        "size_b": 24,
+        "bridge_papers": 291,
+        "prominence": 0.13
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "contrastive / learning / data",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "contrastive",
+          "learning",
+          "data",
+          "semisupervised",
+          "labeled",
+          "contrastive learning"
+        ],
+        "size_a": 61,
+        "size_b": 18,
+        "bridge_papers": 289,
+        "prominence": 0.11
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "domain / adaptation / source",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "domain",
+          "adaptation",
+          "source",
+          "domains",
+          "domain adaptation",
+          "target"
+        ],
+        "size_a": 61,
+        "size_b": 17,
+        "bridge_papers": 292,
+        "prominence": 0.11
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "3d / volumetric / network",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "3d",
+          "volumetric",
+          "network",
+          "nnunet",
+          "search",
+          "2d"
+        ],
+        "size_a": 61,
+        "size_b": 16,
+        "bridge_papers": 293,
+        "prominence": 0.11
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "sam / segment / segment model",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "sam",
+          "segment",
+          "segment model",
+          "model",
+          "models",
+          "model sam"
+        ],
+        "size_a": 61,
+        "size_b": 16,
+        "bridge_papers": 293,
+        "prominence": 0.11
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "annotations / annotation / learning",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "annotations",
+          "annotation",
+          "learning",
+          "training",
+          "models",
+          "supervision"
+        ],
+        "size_a": 61,
+        "size_b": 14,
+        "bridge_papers": 292,
+        "prominence": 0.1
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "deep / deep learning / learning",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "deep",
+          "deep learning",
+          "learning",
+          "images",
+          "review",
+          "based deep"
+        ],
+        "size_a": 61,
+        "size_b": 11,
+        "bridge_papers": 292,
+        "prominence": 0.09
+      }
+    ],
+    "sparsity_off": [
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "unet / architecture / network",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "unet",
+          "architecture",
+          "network",
+          "semantic",
+          "convolutional",
+          "proposed"
+        ],
+        "size_a": 61,
+        "size_b": 31,
+        "bridge_papers": 293,
+        "prominence": 53.05
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "semisupervised / unlabeled / data",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "semisupervised",
+          "unlabeled",
+          "data",
+          "consistency",
+          "unlabeled data",
+          "learning"
+        ],
+        "size_a": 61,
+        "size_b": 24,
+        "bridge_papers": 291,
+        "prominence": 48.21
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "contrastive / learning / data",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "contrastive",
+          "learning",
+          "data",
+          "semisupervised",
+          "labeled",
+          "contrastive learning"
+        ],
+        "size_a": 61,
+        "size_b": 18,
+        "bridge_papers": 289,
+        "prominence": 43.08
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "sam / segment / segment model",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "sam",
+          "segment",
+          "segment model",
+          "model",
+          "models",
+          "model sam"
+        ],
+        "size_a": 61,
+        "size_b": 16,
+        "bridge_papers": 293,
+        "prominence": 40.93
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "domain / adaptation / source",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "domain",
+          "adaptation",
+          "source",
+          "domains",
+          "domain adaptation",
+          "target"
+        ],
+        "size_a": 61,
+        "size_b": 17,
+        "bridge_papers": 292,
+        "prominence": 40.58
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "3d / volumetric / network",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "3d",
+          "volumetric",
+          "network",
+          "nnunet",
+          "search",
+          "2d"
+        ],
+        "size_a": 61,
+        "size_b": 16,
+        "bridge_papers": 293,
+        "prominence": 38.27
+      },
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "annotations / annotation / learning",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [
+          "annotations",
+          "annotation",
+          "learning",
+          "training",
+          "models",
+          "supervision"
+        ],
+        "size_a": 61,
+        "size_b": 14,
+        "bridge_papers": 292,
+        "prominence": 37.41
+      },
+      {
+        "topic_a": "unet / architecture / network",
+        "topic_b": "semisupervised / unlabeled / data",
+        "keywords_a": [
+          "unet",
+          "architecture",
+          "network",
+          "semantic",
+          "convolutional",
+          "proposed"
+        ],
+        "keywords_b": [
+          "semisupervised",
+          "unlabeled",
+          "data",
+          "consistency",
+          "unlabeled data",
+          "learning"
+        ],
+        "size_a": 31,
+        "size_b": 24,
+        "bridge_papers": 294,
+        "prominence": 33.28
+      }
+    ],
+    "single_topic": [
+      {
+        "topic_a": "transformer / transformers / attention",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "transformer",
+          "transformers",
+          "attention",
+          "global",
+          "features",
+          "feature"
+        ],
+        "keywords_b": [],
+        "size_a": 61,
+        "size_b": 0,
+        "bridge_papers": 232,
+        "prominence": 0.34
+      },
+      {
+        "topic_a": "unet / architecture / network",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "unet",
+          "architecture",
+          "network",
+          "semantic",
+          "convolutional",
+          "proposed"
+        ],
+        "keywords_b": [],
+        "size_a": 31,
+        "size_b": 0,
+        "bridge_papers": 265,
+        "prominence": 0.14
+      },
+      {
+        "topic_a": "semisupervised / unlabeled / data",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "semisupervised",
+          "unlabeled",
+          "data",
+          "consistency",
+          "unlabeled data",
+          "learning"
+        ],
+        "keywords_b": [],
+        "size_a": 24,
+        "size_b": 0,
+        "bridge_papers": 271,
+        "prominence": 0.11
+      },
+      {
+        "topic_a": "contrastive / learning / data",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "contrastive",
+          "learning",
+          "data",
+          "semisupervised",
+          "labeled",
+          "contrastive learning"
+        ],
+        "keywords_b": [],
+        "size_a": 18,
+        "size_b": 0,
+        "bridge_papers": 275,
+        "prominence": 0.08
+      },
+      {
+        "topic_a": "domain / adaptation / source",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "domain",
+          "adaptation",
+          "source",
+          "domains",
+          "domain adaptation",
+          "target"
+        ],
+        "keywords_b": [],
+        "size_a": 17,
+        "size_b": 0,
+        "bridge_papers": 278,
+        "prominence": 0.08
+      },
+      {
+        "topic_a": "sam / segment / segment model",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "sam",
+          "segment",
+          "segment model",
+          "model",
+          "models",
+          "model sam"
+        ],
+        "keywords_b": [],
+        "size_a": 16,
+        "size_b": 0,
+        "bridge_papers": 281,
+        "prominence": 0.08
+      },
+      {
+        "topic_a": "3d / volumetric / network",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "3d",
+          "volumetric",
+          "network",
+          "nnunet",
+          "search",
+          "2d"
+        ],
+        "keywords_b": [],
+        "size_a": 16,
+        "size_b": 0,
+        "bridge_papers": 282,
+        "prominence": 0.07
+      },
+      {
+        "topic_a": "annotations / annotation / learning",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "annotations",
+          "annotation",
+          "learning",
+          "training",
+          "models",
+          "supervision"
+        ],
+        "keywords_b": [],
+        "size_a": 14,
+        "size_b": 0,
+        "bridge_papers": 282,
+        "prominence": 0.06
+      }
+    ],
+    "no_clustering": [
+      {
+        "topic_a": "code",
+        "topic_b": "convolutional",
+        "keywords_a": [
+          "code"
+        ],
+        "keywords_b": [
+          "convolutional"
+        ],
+        "size_a": 106,
+        "size_b": 117,
+        "bridge_papers": 30,
+        "prominence": 3.59
+      },
+      {
+        "topic_a": "code",
+        "topic_b": "neural",
+        "keywords_a": [
+          "code"
+        ],
+        "keywords_b": [
+          "neural"
+        ],
+        "size_a": 106,
+        "size_b": 118,
+        "bridge_papers": 31,
+        "prominence": 3.49
+      },
+      {
+        "topic_a": "method",
+        "topic_b": "models",
+        "keywords_a": [
+          "method"
+        ],
+        "keywords_b": [
+          "models"
+        ],
+        "size_a": 110,
+        "size_b": 124,
+        "bridge_papers": 34,
+        "prominence": 3.34
+      },
+      {
+        "topic_a": "https",
+        "topic_b": "neural",
+        "keywords_a": [
+          "https"
+        ],
+        "keywords_b": [
+          "neural"
+        ],
+        "size_a": 108,
+        "size_b": 118,
+        "bridge_papers": 33,
+        "prominence": 3.32
+      },
+      {
+        "topic_a": "convolutional",
+        "topic_b": "github",
+        "keywords_a": [
+          "convolutional"
+        ],
+        "keywords_b": [
+          "github"
+        ],
+        "size_a": 117,
+        "size_b": 106,
+        "bridge_papers": 33,
+        "prominence": 3.28
+      },
+      {
+        "topic_a": "models",
+        "topic_b": "network",
+        "keywords_a": [
+          "models"
+        ],
+        "keywords_b": [
+          "network"
+        ],
+        "size_a": 124,
+        "size_b": 138,
+        "bridge_papers": 39,
+        "prominence": 3.27
+      },
+      {
+        "topic_a": "code",
+        "topic_b": "networks",
+        "keywords_a": [
+          "code"
+        ],
+        "keywords_b": [
+          "networks"
+        ],
+        "size_a": 106,
+        "size_b": 127,
+        "bridge_papers": 35,
+        "prominence": 3.22
+      },
+      {
+        "topic_a": "convolutional",
+        "topic_b": "data",
+        "keywords_a": [
+          "convolutional"
+        ],
+        "keywords_b": [
+          "data"
+        ],
+        "size_a": 117,
+        "size_b": 120,
+        "bridge_papers": 36,
+        "prominence": 3.2
+      }
+    ],
+    "lda": [
+      {
+        "topic_a": "net / network / images",
+        "topic_b": "learning / supervised / data",
+        "keywords_a": [
+          "net",
+          "network",
+          "images",
+          "tasks",
+          "performance",
+          "datasets"
+        ],
+        "keywords_b": [
+          "learning",
+          "supervised",
+          "data",
+          "semi",
+          "labeled",
+          "unlabeled"
+        ],
+        "size_a": 47,
+        "size_b": 57,
+        "bridge_papers": 296,
+        "prominence": 0.22
+      },
+      {
+        "topic_a": "net / convolutional / architecture",
+        "topic_b": "learning / supervised / data",
+        "keywords_a": [
+          "net",
+          "convolutional",
+          "architecture",
+          "decoder",
+          "network",
+          "encoder"
+        ],
+        "keywords_b": [
+          "learning",
+          "supervised",
+          "data",
+          "semi",
+          "labeled",
+          "unlabeled"
+        ],
+        "size_a": 39,
+        "size_b": 57,
+        "bridge_papers": 295,
+        "prominence": 0.2
+      },
+      {
+        "topic_a": "transformer / attention / context",
+        "topic_b": "learning / supervised / data",
+        "keywords_a": [
+          "transformer",
+          "attention",
+          "context",
+          "features",
+          "multi",
+          "global"
+        ],
+        "keywords_b": [
+          "learning",
+          "supervised",
+          "data",
+          "semi",
+          "labeled",
+          "unlabeled"
+        ],
+        "size_a": 31,
+        "size_b": 57,
+        "bridge_papers": 295,
+        "prominence": 0.18
+      },
+      {
+        "topic_a": "net / convolutional / architecture",
+        "topic_b": "net / network / images",
+        "keywords_a": [
+          "net",
+          "convolutional",
+          "architecture",
+          "decoder",
+          "network",
+          "encoder"
+        ],
+        "keywords_b": [
+          "net",
+          "network",
+          "images",
+          "tasks",
+          "performance",
+          "datasets"
+        ],
+        "size_a": 39,
+        "size_b": 47,
+        "bridge_papers": 296,
+        "prominence": 0.18
+      },
+      {
+        "topic_a": "transformer / attention / context",
+        "topic_b": "net / network / images",
+        "keywords_a": [
+          "transformer",
+          "attention",
+          "context",
+          "features",
+          "multi",
+          "global"
+        ],
+        "keywords_b": [
+          "net",
+          "network",
+          "images",
+          "tasks",
+          "performance",
+          "datasets"
+        ],
+        "size_a": 31,
+        "size_b": 47,
+        "bridge_papers": 296,
+        "prominence": 0.16
+      },
+      {
+        "topic_a": "transformer / attention / context",
+        "topic_b": "net / convolutional / architecture",
+        "keywords_a": [
+          "transformer",
+          "attention",
+          "context",
+          "features",
+          "multi",
+          "global"
+        ],
+        "keywords_b": [
+          "net",
+          "convolutional",
+          "architecture",
+          "decoder",
+          "network",
+          "encoder"
+        ],
+        "size_a": 31,
+        "size_b": 39,
+        "bridge_papers": 295,
+        "prominence": 0.15
+      },
+      {
+        "topic_a": "sam / model / models",
+        "topic_b": "learning / supervised / data",
+        "keywords_a": [
+          "sam",
+          "model",
+          "models",
+          "domain",
+          "diffusion",
+          "tasks"
+        ],
+        "keywords_b": [
+          "learning",
+          "supervised",
+          "data",
+          "semi",
+          "labeled",
+          "unlabeled"
+        ],
+        "size_a": 18,
+        "size_b": 57,
+        "bridge_papers": 296,
+        "prominence": 0.14
+      },
+      {
+        "topic_a": "learning / supervised / data",
+        "topic_b": "loss / deep / networks",
+        "keywords_a": [
+          "learning",
+          "supervised",
+          "data",
+          "semi",
+          "labeled",
+          "unlabeled"
+        ],
+        "keywords_b": [
+          "loss",
+          "deep",
+          "networks",
+          "learning",
+          "based",
+          "models"
+        ],
+        "size_a": 57,
+        "size_b": 20,
+        "bridge_papers": 296,
+        "prominence": 0.14
+      }
+    ]
+  },
+  "marine biology": {
+    "full": [
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 27,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 18.73
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 24,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 17.66
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 24,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 17.66
+      },
+      {
+        "topic_a": "species / management / conservation",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "species",
+          "management",
+          "conservation",
+          "fishes",
+          "fish",
+          "fishing"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 21,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 16.52
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "mammals / mammal / university",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "mammals",
+          "mammal",
+          "university",
+          "cm",
+          "length",
+          "mhc"
+        ],
+        "size_a": 24,
+        "size_b": 8,
+        "bridge_papers": 0,
+        "prominence": 13.86
+      },
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "compounds / synthetic / toxins",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "size_a": 27,
+        "size_b": 24,
+        "bridge_papers": 1,
+        "prominence": 12.73
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "compounds / synthetic / toxins",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "size_a": 24,
+        "size_b": 24,
+        "bridge_papers": 1,
+        "prominence": 12.0
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "reproductive / turtles / seabirds",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "reproductive",
+          "turtles",
+          "seabirds",
+          "seabird",
+          "genetic",
+          "reproductive isolation"
+        ],
+        "size_a": 24,
+        "size_b": 6,
+        "bridge_papers": 0,
+        "prominence": 12.0
+      }
+    ],
+    "recency_off": [
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 27,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 18.73
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 24,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 17.66
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 24,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 17.66
+      },
+      {
+        "topic_a": "species / management / conservation",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "species",
+          "management",
+          "conservation",
+          "fishes",
+          "fish",
+          "fishing"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 21,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 16.52
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "mammals / mammal / university",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "mammals",
+          "mammal",
+          "university",
+          "cm",
+          "length",
+          "mhc"
+        ],
+        "size_a": 24,
+        "size_b": 8,
+        "bridge_papers": 0,
+        "prominence": 13.86
+      },
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "compounds / synthetic / toxins",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "size_a": 27,
+        "size_b": 24,
+        "bridge_papers": 1,
+        "prominence": 12.73
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "compounds / synthetic / toxins",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "size_a": 24,
+        "size_b": 24,
+        "bridge_papers": 1,
+        "prominence": 12.0
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "reproductive / turtles / seabirds",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "reproductive",
+          "turtles",
+          "seabirds",
+          "seabird",
+          "genetic",
+          "reproductive isolation"
+        ],
+        "size_a": 24,
+        "size_b": 6,
+        "bridge_papers": 0,
+        "prominence": 12.0
+      }
+    ],
+    "sparsity_off": [
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "compounds / synthetic / toxins",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "size_a": 27,
+        "size_b": 24,
+        "bridge_papers": 1,
+        "prominence": 25.46
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "compounds / synthetic / toxins",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "size_a": 24,
+        "size_b": 24,
+        "bridge_papers": 1,
+        "prominence": 24.0
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "species / management / conservation",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "species",
+          "management",
+          "conservation",
+          "fishes",
+          "fish",
+          "fishing"
+        ],
+        "size_a": 24,
+        "size_b": 21,
+        "bridge_papers": 1,
+        "prominence": 22.45
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "students / life / thinking",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "students",
+          "life",
+          "thinking",
+          "learning",
+          "study",
+          "journal"
+        ],
+        "size_a": 24,
+        "size_b": 16,
+        "bridge_papers": 1,
+        "prominence": 19.6
+      },
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 27,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 18.73
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "search / icon / laboratory",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "search",
+          "icon",
+          "laboratory",
+          "research",
+          "station",
+          "reefs"
+        ],
+        "size_a": 24,
+        "size_b": 14,
+        "bridge_papers": 2,
+        "prominence": 18.33
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 24,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 17.66
+      },
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "underwater / imaging / image",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "size_a": 24,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 17.66
+      }
+    ],
+    "single_topic": [
+      {
+        "topic_a": "compounds / synthetic / toxins",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "compounds",
+          "synthetic",
+          "toxins",
+          "natural",
+          "genetic",
+          "potential"
+        ],
+        "keywords_b": [],
+        "size_a": 24,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 24.0
+      },
+      {
+        "topic_a": "underwater / imaging / image",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "underwater",
+          "imaging",
+          "image",
+          "diving",
+          "measurement",
+          "use"
+        ],
+        "keywords_b": [],
+        "size_a": 13,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 13.0
+      },
+      {
+        "topic_a": "ocean / climate / change",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "ocean",
+          "climate",
+          "change",
+          "climate change",
+          "carbon",
+          "impacts"
+        ],
+        "keywords_b": [],
+        "size_a": 27,
+        "size_b": 0,
+        "bridge_papers": 2,
+        "prominence": 9.0
+      },
+      {
+        "topic_a": "species / light / larval",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "species",
+          "light",
+          "larval",
+          "nematodes",
+          "ecology",
+          "sea"
+        ],
+        "keywords_b": [],
+        "size_a": 24,
+        "size_b": 0,
+        "bridge_papers": 10,
+        "prominence": 2.18
+      },
+      {
+        "topic_a": "species / management / conservation",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "species",
+          "management",
+          "conservation",
+          "fishes",
+          "fish",
+          "fishing"
+        ],
+        "keywords_b": [],
+        "size_a": 21,
+        "size_b": 0,
+        "bridge_papers": 26,
+        "prominence": 0.78
+      },
+      {
+        "topic_a": "students / life / thinking",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "students",
+          "life",
+          "thinking",
+          "learning",
+          "study",
+          "journal"
+        ],
+        "keywords_b": [],
+        "size_a": 16,
+        "size_b": 0,
+        "bridge_papers": 23,
+        "prominence": 0.67
+      },
+      {
+        "topic_a": "reproductive / turtles / seabirds",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "reproductive",
+          "turtles",
+          "seabirds",
+          "seabird",
+          "genetic",
+          "reproductive isolation"
+        ],
+        "keywords_b": [],
+        "size_a": 6,
+        "size_b": 0,
+        "bridge_papers": 9,
+        "prominence": 0.6
+      },
+      {
+        "topic_a": "mammals / mammal / university",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "mammals",
+          "mammal",
+          "university",
+          "cm",
+          "length",
+          "mhc"
+        ],
+        "keywords_b": [],
+        "size_a": 8,
+        "size_b": 0,
+        "bridge_papers": 14,
+        "prominence": 0.53
+      }
+    ],
+    "no_clustering": [
+      {
+        "topic_a": "change",
+        "topic_b": "used",
+        "keywords_a": [
+          "change"
+        ],
+        "keywords_b": [
+          "used"
+        ],
+        "size_a": 29,
+        "size_b": 30,
+        "bridge_papers": 1,
+        "prominence": 14.75
+      },
+      {
+        "topic_a": "data",
+        "topic_b": "development",
+        "keywords_a": [
+          "data"
+        ],
+        "keywords_b": [
+          "development"
+        ],
+        "size_a": 28,
+        "size_b": 29,
+        "bridge_papers": 1,
+        "prominence": 14.25
+      },
+      {
+        "topic_a": "environment",
+        "topic_b": "use",
+        "keywords_a": [
+          "environment"
+        ],
+        "keywords_b": [
+          "use"
+        ],
+        "size_a": 30,
+        "size_b": 27,
+        "bridge_papers": 1,
+        "prominence": 14.23
+      },
+      {
+        "topic_a": "ecosystems",
+        "topic_b": "study",
+        "keywords_a": [
+          "ecosystems"
+        ],
+        "keywords_b": [
+          "study"
+        ],
+        "size_a": 33,
+        "size_b": 31,
+        "bridge_papers": 2,
+        "prominence": 10.66
+      },
+      {
+        "topic_a": "important",
+        "topic_b": "new",
+        "keywords_a": [
+          "important"
+        ],
+        "keywords_b": [
+          "new"
+        ],
+        "size_a": 29,
+        "size_b": 35,
+        "bridge_papers": 2,
+        "prominence": 10.62
+      },
+      {
+        "topic_a": "including",
+        "topic_b": "study",
+        "keywords_a": [
+          "including"
+        ],
+        "keywords_b": [
+          "study"
+        ],
+        "size_a": 30,
+        "size_b": 31,
+        "bridge_papers": 2,
+        "prominence": 10.17
+      },
+      {
+        "topic_a": "10",
+        "topic_b": "including",
+        "keywords_a": [
+          "10"
+        ],
+        "keywords_b": [
+          "including"
+        ],
+        "size_a": 30,
+        "size_b": 30,
+        "bridge_papers": 2,
+        "prominence": 10.0
+      },
+      {
+        "topic_a": "environment",
+        "topic_b": "used",
+        "keywords_a": [
+          "environment"
+        ],
+        "keywords_b": [
+          "used"
+        ],
+        "size_a": 30,
+        "size_b": 30,
+        "bridge_papers": 2,
+        "prominence": 10.0
+      }
+    ],
+    "lda": [
+      {
+        "topic_a": "ocean / carbon / larval",
+        "topic_b": "research / chapter / studies",
+        "keywords_a": [
+          "ocean",
+          "carbon",
+          "larval",
+          "global",
+          "dispersal",
+          "production"
+        ],
+        "keywords_b": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "size_a": 10,
+        "size_b": 27,
+        "bridge_papers": 0,
+        "prominence": 16.43
+      },
+      {
+        "topic_a": "research / chapter / studies",
+        "topic_b": "species / genetic / thinking",
+        "keywords_a": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "keywords_b": [
+          "species",
+          "genetic",
+          "thinking",
+          "learning",
+          "cell",
+          "tools"
+        ],
+        "size_a": 27,
+        "size_b": 17,
+        "bridge_papers": 2,
+        "prominence": 7.14
+      },
+      {
+        "topic_a": "ocean / carbon / larval",
+        "topic_b": "species / genetic / thinking",
+        "keywords_a": [
+          "ocean",
+          "carbon",
+          "larval",
+          "global",
+          "dispersal",
+          "production"
+        ],
+        "keywords_b": [
+          "species",
+          "genetic",
+          "thinking",
+          "learning",
+          "cell",
+          "tools"
+        ],
+        "size_a": 10,
+        "size_b": 17,
+        "bridge_papers": 1,
+        "prominence": 6.52
+      },
+      {
+        "topic_a": "research / chapter / studies",
+        "topic_b": "species / ecology / sea",
+        "keywords_a": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "keywords_b": [
+          "species",
+          "ecology",
+          "sea",
+          "range",
+          "ecological",
+          "university"
+        ],
+        "size_a": 27,
+        "size_b": 22,
+        "bridge_papers": 3,
+        "prominence": 6.09
+      },
+      {
+        "topic_a": "species / data / ocean",
+        "topic_b": "research / chapter / studies",
+        "keywords_a": [
+          "species",
+          "data",
+          "ocean",
+          "information",
+          "science",
+          "biodiversity"
+        ],
+        "keywords_b": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "size_a": 19,
+        "size_b": 27,
+        "bridge_papers": 3,
+        "prominence": 5.66
+      },
+      {
+        "topic_a": "research / chapter / studies",
+        "topic_b": "ocean / climate / change",
+        "keywords_a": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "keywords_b": [
+          "ocean",
+          "climate",
+          "change",
+          "use",
+          "species",
+          "conservation"
+        ],
+        "size_a": 27,
+        "size_b": 19,
+        "bridge_papers": 3,
+        "prominence": 5.66
+      },
+      {
+        "topic_a": "ecology / management / conservation",
+        "topic_b": "research / chapter / studies",
+        "keywords_a": [
+          "ecology",
+          "management",
+          "conservation",
+          "species",
+          "fisheries",
+          "ecosystems"
+        ],
+        "keywords_b": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "size_a": 18,
+        "size_b": 27,
+        "bridge_papers": 3,
+        "prominence": 5.51
+      },
+      {
+        "topic_a": "population / life / seabirds",
+        "topic_b": "research / chapter / studies",
+        "keywords_a": [
+          "population",
+          "life",
+          "seabirds",
+          "species",
+          "environment",
+          "conservation"
+        ],
+        "keywords_b": [
+          "research",
+          "chapter",
+          "studies",
+          "review",
+          "reserves",
+          "life"
+        ],
+        "size_a": 16,
+        "size_b": 27,
+        "bridge_papers": 3,
+        "prominence": 5.2
+      }
+    ]
+  },
+  "migraine research": {
+    "full": [
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 91,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 49.99
+      },
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "drug / compounds / features",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "size_a": 91,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 46.34
+      },
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "materials / properties / models",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "materials",
+          "properties",
+          "models",
+          "quantum",
+          "time",
+          "ml"
+        ],
+        "size_a": 91,
+        "size_b": 9,
+        "bridge_papers": 0,
+        "prominence": 38.49
+      },
+      {
+        "topic_a": "brain / age / brain age",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "brain",
+          "age",
+          "brain age",
+          "image",
+          "disease",
+          "deep"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 21,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 24.01
+      },
+      {
+        "topic_a": "data / dropout / price",
+        "topic_b": "eeg / seizures / epileptic",
+        "keywords_a": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "keywords_b": [
+          "eeg",
+          "seizures",
+          "epileptic",
+          "signals",
+          "mdd",
+          "using"
+        ],
+        "size_a": 16,
+        "size_b": 14,
+        "bridge_papers": 0,
+        "prominence": 19.61
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 18,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 19.43
+      },
+      {
+        "topic_a": "data / dropout / price",
+        "topic_b": "patients / connectivity / patients chronic",
+        "keywords_a": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "keywords_b": [
+          "patients",
+          "connectivity",
+          "patients chronic",
+          "chronic",
+          "oscillatory",
+          "controls"
+        ],
+        "size_a": 16,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 18.15
+      },
+      {
+        "topic_a": "brain / age / brain age",
+        "topic_b": "materials / properties / models",
+        "keywords_a": [
+          "brain",
+          "age",
+          "brain age",
+          "image",
+          "disease",
+          "deep"
+        ],
+        "keywords_b": [
+          "materials",
+          "properties",
+          "models",
+          "quantum",
+          "time",
+          "ml"
+        ],
+        "size_a": 21,
+        "size_b": 9,
+        "bridge_papers": 0,
+        "prominence": 18.01
+      }
+    ],
+    "recency_off": [
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "drug / compounds / features",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "size_a": 91,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 40.47
+      },
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 91,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 38.16
+      },
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "materials / properties / models",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "materials",
+          "properties",
+          "models",
+          "quantum",
+          "time",
+          "ml"
+        ],
+        "size_a": 91,
+        "size_b": 9,
+        "bridge_papers": 0,
+        "prominence": 28.62
+      },
+      {
+        "topic_a": "brain / age / brain age",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "brain",
+          "age",
+          "brain age",
+          "image",
+          "disease",
+          "deep"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 21,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 18.33
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 18,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 16.97
+      },
+      {
+        "topic_a": "data / dropout / price",
+        "topic_b": "eeg / seizures / epileptic",
+        "keywords_a": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "keywords_b": [
+          "eeg",
+          "seizures",
+          "epileptic",
+          "signals",
+          "mdd",
+          "using"
+        ],
+        "size_a": 16,
+        "size_b": 14,
+        "bridge_papers": 0,
+        "prominence": 14.97
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "patients / connectivity / patients chronic",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [
+          "patients",
+          "connectivity",
+          "patients chronic",
+          "chronic",
+          "oscillatory",
+          "controls"
+        ],
+        "size_a": 18,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 14.7
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "acupuncture / mwoa / patients",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [
+          "acupuncture",
+          "mwoa",
+          "patients",
+          "treatment",
+          "gyrus",
+          "left"
+        ],
+        "size_a": 18,
+        "size_b": 11,
+        "bridge_papers": 0,
+        "prominence": 14.07
+      }
+    ],
+    "sparsity_off": [
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 91,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 49.99
+      },
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "drug / compounds / features",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "size_a": 91,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 46.34
+      },
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "materials / properties / models",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [
+          "materials",
+          "properties",
+          "models",
+          "quantum",
+          "time",
+          "ml"
+        ],
+        "size_a": 91,
+        "size_b": 9,
+        "bridge_papers": 0,
+        "prominence": 38.49
+      },
+      {
+        "topic_a": "brain / age / brain age",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "brain",
+          "age",
+          "brain age",
+          "image",
+          "disease",
+          "deep"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 21,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 24.01
+      },
+      {
+        "topic_a": "brain / age / brain age",
+        "topic_b": "drug / compounds / features",
+        "keywords_a": [
+          "brain",
+          "age",
+          "brain age",
+          "image",
+          "disease",
+          "deep"
+        ],
+        "keywords_b": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "size_a": 21,
+        "size_b": 18,
+        "bridge_papers": 1,
+        "prominence": 22.26
+      },
+      {
+        "topic_a": "data / dropout / price",
+        "topic_b": "eeg / seizures / epileptic",
+        "keywords_a": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "keywords_b": [
+          "eeg",
+          "seizures",
+          "epileptic",
+          "signals",
+          "mdd",
+          "using"
+        ],
+        "size_a": 16,
+        "size_b": 14,
+        "bridge_papers": 0,
+        "prominence": 19.61
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "data / dropout / price",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "size_a": 18,
+        "size_b": 16,
+        "bridge_papers": 0,
+        "prominence": 19.43
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "eeg / seizures / epileptic",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [
+          "eeg",
+          "seizures",
+          "epileptic",
+          "signals",
+          "mdd",
+          "using"
+        ],
+        "size_a": 18,
+        "size_b": 14,
+        "bridge_papers": 2,
+        "prominence": 18.18
+      }
+    ],
+    "single_topic": [
+      {
+        "topic_a": "headache / models / data",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "headache",
+          "models",
+          "data",
+          "using",
+          "patients",
+          "model"
+        ],
+        "keywords_b": [],
+        "size_a": 91,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 122.4
+      },
+      {
+        "topic_a": "data / dropout / price",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "data",
+          "dropout",
+          "price",
+          "model",
+          "regressor",
+          "customer"
+        ],
+        "keywords_b": [],
+        "size_a": 16,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 20.96
+      },
+      {
+        "topic_a": "drug / compounds / features",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "drug",
+          "compounds",
+          "features",
+          "methods",
+          "data",
+          "ai"
+        ],
+        "keywords_b": [],
+        "size_a": 18,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 20.61
+      },
+      {
+        "topic_a": "materials / properties / models",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "materials",
+          "properties",
+          "models",
+          "quantum",
+          "time",
+          "ml"
+        ],
+        "keywords_b": [],
+        "size_a": 9,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 12.64
+      },
+      {
+        "topic_a": "brain / age / brain age",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "brain",
+          "age",
+          "brain age",
+          "image",
+          "disease",
+          "deep"
+        ],
+        "keywords_b": [],
+        "size_a": 21,
+        "size_b": 0,
+        "bridge_papers": 16,
+        "prominence": 1.62
+      },
+      {
+        "topic_a": "eeg / seizures / epileptic",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "eeg",
+          "seizures",
+          "epileptic",
+          "signals",
+          "mdd",
+          "using"
+        ],
+        "keywords_b": [],
+        "size_a": 14,
+        "size_b": 0,
+        "bridge_papers": 61,
+        "prominence": 0.3
+      },
+      {
+        "topic_a": "disease / algorithms / heart",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "disease",
+          "algorithms",
+          "heart",
+          "dengue",
+          "diabetes",
+          "data"
+        ],
+        "keywords_b": [],
+        "size_a": 14,
+        "size_b": 0,
+        "bridge_papers": 65,
+        "prominence": 0.28
+      },
+      {
+        "topic_a": "stroke / models / clinical",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "stroke",
+          "models",
+          "clinical",
+          "patients",
+          "af",
+          "ml"
+        ],
+        "keywords_b": [],
+        "size_a": 13,
+        "size_b": 0,
+        "bridge_papers": 60,
+        "prominence": 0.28
+      }
+    ],
+    "no_clustering": [
+      {
+        "topic_a": "different",
+        "topic_b": "predictive",
+        "keywords_a": [
+          "different"
+        ],
+        "keywords_b": [
+          "predictive"
+        ],
+        "size_a": 69,
+        "size_b": 64,
+        "bridge_papers": 10,
+        "prominence": 6.04
+      },
+      {
+        "topic_a": "predictive",
+        "topic_b": "techniques",
+        "keywords_a": [
+          "predictive"
+        ],
+        "keywords_b": [
+          "techniques"
+        ],
+        "size_a": 64,
+        "size_b": 72,
+        "bridge_papers": 11,
+        "prominence": 5.66
+      },
+      {
+        "topic_a": "including",
+        "topic_b": "predict",
+        "keywords_a": [
+          "including"
+        ],
+        "keywords_b": [
+          "predict"
+        ],
+        "size_a": 70,
+        "size_b": 82,
+        "bridge_papers": 14,
+        "prominence": 5.05
+      },
+      {
+        "topic_a": "classification",
+        "topic_b": "predicting",
+        "keywords_a": [
+          "classification"
+        ],
+        "keywords_b": [
+          "predicting"
+        ],
+        "size_a": 77,
+        "size_b": 71,
+        "bridge_papers": 14,
+        "prominence": 4.93
+      },
+      {
+        "topic_a": "different",
+        "topic_b": "studies",
+        "keywords_a": [
+          "different"
+        ],
+        "keywords_b": [
+          "studies"
+        ],
+        "size_a": 69,
+        "size_b": 69,
+        "bridge_papers": 14,
+        "prominence": 4.6
+      },
+      {
+        "topic_a": "predictive",
+        "topic_b": "research",
+        "keywords_a": [
+          "predictive"
+        ],
+        "keywords_b": [
+          "research"
+        ],
+        "size_a": 64,
+        "size_b": 72,
+        "bridge_papers": 14,
+        "prominence": 4.53
+      },
+      {
+        "topic_a": "predicting",
+        "topic_b": "techniques",
+        "keywords_a": [
+          "predicting"
+        ],
+        "keywords_b": [
+          "techniques"
+        ],
+        "size_a": 71,
+        "size_b": 72,
+        "bridge_papers": 15,
+        "prominence": 4.47
+      },
+      {
+        "topic_a": "analysis",
+        "topic_b": "different",
+        "keywords_a": [
+          "analysis"
+        ],
+        "keywords_b": [
+          "different"
+        ],
+        "size_a": 111,
+        "size_b": 69,
+        "bridge_papers": 21,
+        "prominence": 3.98
+      }
+    ],
+    "lda": [
+      {
+        "topic_a": "based / using / data",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "based",
+          "using",
+          "data",
+          "eeg",
+          "models",
+          "classification"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 46,
+        "size_b": 10,
+        "bridge_papers": 5,
+        "prominence": 4.65
+      },
+      {
+        "topic_a": "patients / models / features",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "patients",
+          "models",
+          "features",
+          "study",
+          "model",
+          "using"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 31,
+        "size_b": 10,
+        "bridge_papers": 5,
+        "prominence": 3.8
+      },
+      {
+        "topic_a": "data / risk / model",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "data",
+          "risk",
+          "model",
+          "study",
+          "using",
+          "models"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 26,
+        "size_b": 10,
+        "bridge_papers": 5,
+        "prominence": 3.56
+      },
+      {
+        "topic_a": "headache / patients / clinical",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "headache",
+          "patients",
+          "clinical",
+          "using",
+          "95",
+          "features"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 25,
+        "size_b": 10,
+        "bridge_papers": 5,
+        "prominence": 3.48
+      },
+      {
+        "topic_a": "data / models / using",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "data",
+          "models",
+          "using",
+          "patients",
+          "study",
+          "ml"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 22,
+        "size_b": 10,
+        "bridge_papers": 5,
+        "prominence": 3.11
+      },
+      {
+        "topic_a": "data / models / model",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "data",
+          "models",
+          "model",
+          "research",
+          "analysis",
+          "using"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 13,
+        "size_b": 10,
+        "bridge_papers": 4,
+        "prominence": 3.08
+      },
+      {
+        "topic_a": "models / time / model",
+        "topic_b": "using / model / data",
+        "keywords_a": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "keywords_b": [
+          "using",
+          "model",
+          "data",
+          "accuracy",
+          "headache",
+          "patients"
+        ],
+        "size_a": 10,
+        "size_b": 19,
+        "bridge_papers": 5,
+        "prominence": 2.96
+      },
+      {
+        "topic_a": "acupuncture / studies / treatment",
+        "topic_b": "models / time / model",
+        "keywords_a": [
+          "acupuncture",
+          "studies",
+          "treatment",
+          "clinical",
+          "patients",
+          "review"
+        ],
+        "keywords_b": [
+          "models",
+          "time",
+          "model",
+          "results",
+          "performance",
+          "algorithms"
+        ],
+        "size_a": 18,
+        "size_b": 10,
+        "bridge_papers": 5,
+        "prominence": 2.95
+      }
+    ]
+  },
+  "drug discovery": {
+    "full": [
+      {
+        "topic_a": "ai / development / artificial",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "ai",
+          "development",
+          "artificial",
+          "learning",
+          "intelligence",
+          "artificial intelligence"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 55,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 31.46
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 42,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 27.5
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 42,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 25.59
+      },
+      {
+        "topic_a": "proteinligand / binding / proteinligand binding",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "proteinligand",
+          "binding",
+          "proteinligand binding",
+          "prediction",
+          "protein",
+          "pockets"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 23,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 20.35
+      },
+      {
+        "topic_a": "network / brain / functional",
+        "topic_b": "model / prediction / protein",
+        "keywords_a": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "keywords_b": [
+          "model",
+          "prediction",
+          "protein",
+          "learning",
+          "deep",
+          "dti"
+        ],
+        "size_a": 18,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 15.3
+      },
+      {
+        "topic_a": "network / brain / functional",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 18,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 14.7
+      },
+      {
+        "topic_a": "molecular / prediction / learning",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "molecular",
+          "prediction",
+          "learning",
+          "molecules",
+          "models",
+          "chemical"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 70,
+        "size_b": 18,
+        "bridge_papers": 2,
+        "prominence": 11.83
+      },
+      {
+        "topic_a": "prediction / network / drugs",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "drugs",
+          "methods",
+          "drugtarget",
+          "interactions"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 38,
+        "size_b": 18,
+        "bridge_papers": 2,
+        "prominence": 8.72
+      }
+    ],
+    "recency_off": [
+      {
+        "topic_a": "ai / development / artificial",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "ai",
+          "development",
+          "artificial",
+          "learning",
+          "intelligence",
+          "artificial intelligence"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 55,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 31.46
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 42,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 27.5
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 42,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 22.45
+      },
+      {
+        "topic_a": "proteinligand / binding / proteinligand binding",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "proteinligand",
+          "binding",
+          "proteinligand binding",
+          "prediction",
+          "protein",
+          "pockets"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 23,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 20.35
+      },
+      {
+        "topic_a": "network / brain / functional",
+        "topic_b": "model / prediction / protein",
+        "keywords_a": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "keywords_b": [
+          "model",
+          "prediction",
+          "protein",
+          "learning",
+          "deep",
+          "dti"
+        ],
+        "size_a": 18,
+        "size_b": 13,
+        "bridge_papers": 0,
+        "prominence": 15.3
+      },
+      {
+        "topic_a": "network / brain / functional",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 18,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 14.7
+      },
+      {
+        "topic_a": "molecular / prediction / learning",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "molecular",
+          "prediction",
+          "learning",
+          "molecules",
+          "models",
+          "chemical"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 70,
+        "size_b": 18,
+        "bridge_papers": 2,
+        "prominence": 11.83
+      },
+      {
+        "topic_a": "prediction / network / drugs",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "drugs",
+          "methods",
+          "drugtarget",
+          "interactions"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 38,
+        "size_b": 18,
+        "bridge_papers": 2,
+        "prominence": 8.72
+      }
+    ],
+    "sparsity_off": [
+      {
+        "topic_a": "molecular / prediction / learning",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "molecular",
+          "prediction",
+          "learning",
+          "molecules",
+          "models",
+          "chemical"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 70,
+        "size_b": 18,
+        "bridge_papers": 2,
+        "prominence": 35.5
+      },
+      {
+        "topic_a": "molecular / prediction / learning",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "molecular",
+          "prediction",
+          "learning",
+          "molecules",
+          "models",
+          "chemical"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 70,
+        "size_b": 12,
+        "bridge_papers": 3,
+        "prominence": 33.04
+      },
+      {
+        "topic_a": "ai / development / artificial",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "ai",
+          "development",
+          "artificial",
+          "learning",
+          "intelligence",
+          "artificial intelligence"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 55,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 31.46
+      },
+      {
+        "topic_a": "ai / development / artificial",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "ai",
+          "development",
+          "artificial",
+          "learning",
+          "intelligence",
+          "artificial intelligence"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 55,
+        "size_b": 12,
+        "bridge_papers": 3,
+        "prominence": 29.29
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 42,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 27.5
+      },
+      {
+        "topic_a": "prediction / network / drugs",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "drugs",
+          "methods",
+          "drugtarget",
+          "interactions"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 38,
+        "size_b": 18,
+        "bridge_papers": 2,
+        "prominence": 26.15
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "dl / medical / learning",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "size_a": 42,
+        "size_b": 12,
+        "bridge_papers": 0,
+        "prominence": 25.59
+      },
+      {
+        "topic_a": "proteinligand / binding / proteinligand binding",
+        "topic_b": "network / brain / functional",
+        "keywords_a": [
+          "proteinligand",
+          "binding",
+          "proteinligand binding",
+          "prediction",
+          "protein",
+          "pockets"
+        ],
+        "keywords_b": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "size_a": 23,
+        "size_b": 18,
+        "bridge_papers": 0,
+        "prominence": 20.35
+      }
+    ],
+    "single_topic": [
+      {
+        "topic_a": "network / brain / functional",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "network",
+          "brain",
+          "functional",
+          "analysis",
+          "connectivity",
+          "regions"
+        ],
+        "keywords_b": [],
+        "size_a": 18,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 18.0
+      },
+      {
+        "topic_a": "dl / medical / learning",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "dl",
+          "medical",
+          "learning",
+          "ml",
+          "uncertainty",
+          "artificial"
+        ],
+        "keywords_b": [],
+        "size_a": 12,
+        "size_b": 0,
+        "bridge_papers": 2,
+        "prominence": 4.56
+      },
+      {
+        "topic_a": "gnns / graphs / knowledge",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "gnns",
+          "graphs",
+          "knowledge",
+          "gnn",
+          "learning",
+          "data"
+        ],
+        "keywords_b": [],
+        "size_a": 42,
+        "size_b": 0,
+        "bridge_papers": 69,
+        "prominence": 0.75
+      },
+      {
+        "topic_a": "ai / development / artificial",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "ai",
+          "development",
+          "artificial",
+          "learning",
+          "intelligence",
+          "artificial intelligence"
+        ],
+        "keywords_b": [],
+        "size_a": 55,
+        "size_b": 0,
+        "bridge_papers": 108,
+        "prominence": 0.59
+      },
+      {
+        "topic_a": "molecular / prediction / learning",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "molecular",
+          "prediction",
+          "learning",
+          "molecules",
+          "models",
+          "chemical"
+        ],
+        "keywords_b": [],
+        "size_a": 70,
+        "size_b": 0,
+        "bridge_papers": 151,
+        "prominence": 0.58
+      },
+      {
+        "topic_a": "prediction / network / drugs",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "drugs",
+          "methods",
+          "drugtarget",
+          "interactions"
+        ],
+        "keywords_b": [],
+        "size_a": 38,
+        "size_b": 0,
+        "bridge_papers": 169,
+        "prominence": 0.27
+      },
+      {
+        "topic_a": "proteinligand / binding / proteinligand binding",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "proteinligand",
+          "binding",
+          "proteinligand binding",
+          "prediction",
+          "protein",
+          "pockets"
+        ],
+        "keywords_b": [],
+        "size_a": 23,
+        "size_b": 0,
+        "bridge_papers": 188,
+        "prominence": 0.15
+      },
+      {
+        "topic_a": "data / network / biological",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "data",
+          "network",
+          "biological",
+          "prediction",
+          "cancer",
+          "gnn"
+        ],
+        "keywords_b": [],
+        "size_a": 13,
+        "size_b": 0,
+        "bridge_papers": 202,
+        "prominence": 0.08
+      }
+    ],
+    "no_clustering": [
+      {
+        "topic_a": "development",
+        "topic_b": "propose",
+        "keywords_a": [
+          "development"
+        ],
+        "keywords_b": [
+          "propose"
+        ],
+        "size_a": 76,
+        "size_b": 81,
+        "bridge_papers": 11,
+        "prominence": 6.54
+      },
+      {
+        "topic_a": "applications",
+        "topic_b": "results",
+        "keywords_a": [
+          "applications"
+        ],
+        "keywords_b": [
+          "results"
+        ],
+        "size_a": 89,
+        "size_b": 97,
+        "bridge_papers": 14,
+        "prominence": 6.19
+      },
+      {
+        "topic_a": "development",
+        "topic_b": "results",
+        "keywords_a": [
+          "development"
+        ],
+        "keywords_b": [
+          "results"
+        ],
+        "size_a": 76,
+        "size_b": 97,
+        "bridge_papers": 14,
+        "prominence": 5.72
+      },
+      {
+        "topic_a": "art",
+        "topic_b": "development",
+        "keywords_a": [
+          "art"
+        ],
+        "keywords_b": [
+          "development"
+        ],
+        "size_a": 84,
+        "size_b": 76,
+        "bridge_papers": 13,
+        "prominence": 5.71
+      },
+      {
+        "topic_a": "art",
+        "topic_b": "research",
+        "keywords_a": [
+          "art"
+        ],
+        "keywords_b": [
+          "research"
+        ],
+        "size_a": 84,
+        "size_b": 74,
+        "bridge_papers": 13,
+        "prominence": 5.63
+      },
+      {
+        "topic_a": "applications",
+        "topic_b": "propose",
+        "keywords_a": [
+          "applications"
+        ],
+        "keywords_b": [
+          "propose"
+        ],
+        "size_a": 89,
+        "size_b": 81,
+        "bridge_papers": 15,
+        "prominence": 5.31
+      },
+      {
+        "topic_a": "datasets",
+        "topic_b": "research",
+        "keywords_a": [
+          "datasets"
+        ],
+        "keywords_b": [
+          "research"
+        ],
+        "size_a": 83,
+        "size_b": 74,
+        "bridge_papers": 14,
+        "prominence": 5.22
+      },
+      {
+        "topic_a": "applications",
+        "topic_b": "model",
+        "keywords_a": [
+          "applications"
+        ],
+        "keywords_b": [
+          "model"
+        ],
+        "size_a": 89,
+        "size_b": 120,
+        "bridge_papers": 19,
+        "prominence": 5.17
+      }
+    ],
+    "lda": [
+      {
+        "topic_a": "prediction / network / protein",
+        "topic_b": "network / data / gnns",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "protein",
+          "target",
+          "interactions",
+          "based"
+        ],
+        "keywords_b": [
+          "network",
+          "data",
+          "gnns",
+          "functional",
+          "analysis",
+          "brain"
+        ],
+        "size_a": 63,
+        "size_b": 22,
+        "bridge_papers": 78,
+        "prominence": 0.51
+      },
+      {
+        "topic_a": "network / data / gnns",
+        "topic_b": "learning / based / graphs",
+        "keywords_a": [
+          "network",
+          "data",
+          "gnns",
+          "functional",
+          "analysis",
+          "brain"
+        ],
+        "keywords_b": [
+          "learning",
+          "based",
+          "graphs",
+          "network",
+          "knowledge",
+          "data"
+        ],
+        "size_a": 22,
+        "size_b": 56,
+        "bridge_papers": 77,
+        "prominence": 0.48
+      },
+      {
+        "topic_a": "network / data / gnns",
+        "topic_b": "learning / data / network",
+        "keywords_a": [
+          "network",
+          "data",
+          "gnns",
+          "functional",
+          "analysis",
+          "brain"
+        ],
+        "keywords_b": [
+          "learning",
+          "data",
+          "network",
+          "deep",
+          "models",
+          "prediction"
+        ],
+        "size_a": 22,
+        "size_b": 41,
+        "bridge_papers": 77,
+        "prominence": 0.41
+      },
+      {
+        "topic_a": "based / models / learning",
+        "topic_b": "network / data / gnns",
+        "keywords_a": [
+          "based",
+          "models",
+          "learning",
+          "screening",
+          "methods",
+          "data"
+        ],
+        "keywords_b": [
+          "network",
+          "data",
+          "gnns",
+          "functional",
+          "analysis",
+          "brain"
+        ],
+        "size_a": 35,
+        "size_b": 22,
+        "bridge_papers": 74,
+        "prominence": 0.4
+      },
+      {
+        "topic_a": "ai / review / artificial",
+        "topic_b": "network / data / gnns",
+        "keywords_a": [
+          "ai",
+          "review",
+          "artificial",
+          "intelligence",
+          "learning",
+          "development"
+        ],
+        "keywords_b": [
+          "network",
+          "data",
+          "gnns",
+          "functional",
+          "analysis",
+          "brain"
+        ],
+        "size_a": 23,
+        "size_b": 22,
+        "bridge_papers": 63,
+        "prominence": 0.38
+      },
+      {
+        "topic_a": "prediction / network / protein",
+        "topic_b": "learning / based / graphs",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "protein",
+          "target",
+          "interactions",
+          "based"
+        ],
+        "keywords_b": [
+          "learning",
+          "based",
+          "graphs",
+          "network",
+          "knowledge",
+          "data"
+        ],
+        "size_a": 63,
+        "size_b": 56,
+        "bridge_papers": 190,
+        "prominence": 0.37
+      },
+      {
+        "topic_a": "prediction / network / protein",
+        "topic_b": "learning / data / network",
+        "keywords_a": [
+          "prediction",
+          "network",
+          "protein",
+          "target",
+          "interactions",
+          "based"
+        ],
+        "keywords_b": [
+          "learning",
+          "data",
+          "network",
+          "deep",
+          "models",
+          "prediction"
+        ],
+        "size_a": 63,
+        "size_b": 41,
+        "bridge_papers": 158,
+        "prominence": 0.37
+      },
+      {
+        "topic_a": "learning / based / graphs",
+        "topic_b": "learning / data / network",
+        "keywords_a": [
+          "learning",
+          "based",
+          "graphs",
+          "network",
+          "knowledge",
+          "data"
+        ],
+        "keywords_b": [
+          "learning",
+          "data",
+          "network",
+          "deep",
+          "models",
+          "prediction"
+        ],
+        "size_a": 56,
+        "size_b": 41,
+        "bridge_papers": 154,
+        "prominence": 0.36
+      }
+    ]
+  },
+  "cell segmentation": {
+    "full": [
+      {
+        "topic_a": "blood / white / white blood",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "blood",
+          "white",
+          "white blood",
+          "blood cells",
+          "cells",
+          "images"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 60,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 24.49
+      },
+      {
+        "topic_a": "unet / image / medical",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "unet",
+          "image",
+          "medical",
+          "images",
+          "tumor",
+          "nuclei"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 24,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.49
+      },
+      {
+        "topic_a": "images / microscopy / microscopy images",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "images",
+          "microscopy",
+          "microscopy images",
+          "learning",
+          "deep",
+          "training"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 24,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.49
+      },
+      {
+        "topic_a": "nuclei / image / images",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "nuclei",
+          "image",
+          "images",
+          "using",
+          "method",
+          "approach"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 23,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.17
+      },
+      {
+        "topic_a": "tracking / microscopy / phase",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "phase",
+          "cells",
+          "imaging",
+          "methods"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 20,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 14.14
+      },
+      {
+        "topic_a": "cervical / overlapping / cells",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "cervical",
+          "overlapping",
+          "cells",
+          "cytoplasm",
+          "cervical cells",
+          "cervical cancer"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 17,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 13.04
+      },
+      {
+        "topic_a": "image / algorithms / method",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "image",
+          "algorithms",
+          "method",
+          "cells",
+          "thresholding",
+          "different"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 17,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 13.04
+      },
+      {
+        "topic_a": "tracking / microscopy / deep",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "deep",
+          "cells",
+          "data",
+          "timelapse"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 11,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 10.49
+      }
+    ],
+    "recency_off": [
+      {
+        "topic_a": "blood / white / white blood",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "blood",
+          "white",
+          "white blood",
+          "blood cells",
+          "cells",
+          "images"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 60,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 24.49
+      },
+      {
+        "topic_a": "unet / image / medical",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "unet",
+          "image",
+          "medical",
+          "images",
+          "tumor",
+          "nuclei"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 24,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.49
+      },
+      {
+        "topic_a": "images / microscopy / microscopy images",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "images",
+          "microscopy",
+          "microscopy images",
+          "learning",
+          "deep",
+          "training"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 24,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.49
+      },
+      {
+        "topic_a": "nuclei / image / images",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "nuclei",
+          "image",
+          "images",
+          "using",
+          "method",
+          "approach"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 23,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.17
+      },
+      {
+        "topic_a": "tracking / microscopy / phase",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "phase",
+          "cells",
+          "imaging",
+          "methods"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 20,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 14.14
+      },
+      {
+        "topic_a": "cervical / overlapping / cells",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "cervical",
+          "overlapping",
+          "cells",
+          "cytoplasm",
+          "cervical cells",
+          "cervical cancer"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 17,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 13.04
+      },
+      {
+        "topic_a": "image / algorithms / method",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "image",
+          "algorithms",
+          "method",
+          "cells",
+          "thresholding",
+          "different"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 17,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 13.04
+      },
+      {
+        "topic_a": "tracking / microscopy / deep",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "deep",
+          "cells",
+          "data",
+          "timelapse"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 11,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 10.49
+      }
+    ],
+    "sparsity_off": [
+      {
+        "topic_a": "blood / white / white blood",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "blood",
+          "white",
+          "white blood",
+          "blood cells",
+          "cells",
+          "images"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 60,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 24.49
+      },
+      {
+        "topic_a": "unet / image / medical",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "unet",
+          "image",
+          "medical",
+          "images",
+          "tumor",
+          "nuclei"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 24,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.49
+      },
+      {
+        "topic_a": "images / microscopy / microscopy images",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "images",
+          "microscopy",
+          "microscopy images",
+          "learning",
+          "deep",
+          "training"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 24,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.49
+      },
+      {
+        "topic_a": "nuclei / image / images",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "nuclei",
+          "image",
+          "images",
+          "using",
+          "method",
+          "approach"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 23,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 15.17
+      },
+      {
+        "topic_a": "tracking / microscopy / phase",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "phase",
+          "cells",
+          "imaging",
+          "methods"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 20,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 14.14
+      },
+      {
+        "topic_a": "cervical / overlapping / cells",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "cervical",
+          "overlapping",
+          "cells",
+          "cytoplasm",
+          "cervical cells",
+          "cervical cancer"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 17,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 13.04
+      },
+      {
+        "topic_a": "image / algorithms / method",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "image",
+          "algorithms",
+          "method",
+          "cells",
+          "thresholding",
+          "different"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 17,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 13.04
+      },
+      {
+        "topic_a": "tracking / microscopy / deep",
+        "topic_b": "mesoderm / somite / clock",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "deep",
+          "cells",
+          "data",
+          "timelapse"
+        ],
+        "keywords_b": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "size_a": 11,
+        "size_b": 10,
+        "bridge_papers": 0,
+        "prominence": 10.49
+      }
+    ],
+    "single_topic": [
+      {
+        "topic_a": "mesoderm / somite / clock",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "mesoderm",
+          "somite",
+          "clock",
+          "cells",
+          "blast",
+          "intercalation"
+        ],
+        "keywords_b": [],
+        "size_a": 10,
+        "size_b": 0,
+        "bridge_papers": 0,
+        "prominence": 10.0
+      },
+      {
+        "topic_a": "blood / white / white blood",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "blood",
+          "white",
+          "white blood",
+          "blood cells",
+          "cells",
+          "images"
+        ],
+        "keywords_b": [],
+        "size_a": 60,
+        "size_b": 0,
+        "bridge_papers": 112,
+        "prominence": 0.53
+      },
+      {
+        "topic_a": "unet / image / medical",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "unet",
+          "image",
+          "medical",
+          "images",
+          "tumor",
+          "nuclei"
+        ],
+        "keywords_b": [],
+        "size_a": 24,
+        "size_b": 0,
+        "bridge_papers": 125,
+        "prominence": 0.23
+      },
+      {
+        "topic_a": "images / microscopy / microscopy images",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "images",
+          "microscopy",
+          "microscopy images",
+          "learning",
+          "deep",
+          "training"
+        ],
+        "keywords_b": [],
+        "size_a": 24,
+        "size_b": 0,
+        "bridge_papers": 171,
+        "prominence": 0.17
+      },
+      {
+        "topic_a": "nuclei / image / images",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "nuclei",
+          "image",
+          "images",
+          "using",
+          "method",
+          "approach"
+        ],
+        "keywords_b": [],
+        "size_a": 23,
+        "size_b": 0,
+        "bridge_papers": 191,
+        "prominence": 0.12
+      },
+      {
+        "topic_a": "tracking / microscopy / phase",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "tracking",
+          "microscopy",
+          "phase",
+          "cells",
+          "imaging",
+          "methods"
+        ],
+        "keywords_b": [],
+        "size_a": 20,
+        "size_b": 0,
+        "bridge_papers": 183,
+        "prominence": 0.11
+      },
+      {
+        "topic_a": "cervical / overlapping / cells",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "cervical",
+          "overlapping",
+          "cells",
+          "cytoplasm",
+          "cervical cells",
+          "cervical cancer"
+        ],
+        "keywords_b": [],
+        "size_a": 17,
+        "size_b": 0,
+        "bridge_papers": 179,
+        "prominence": 0.09
+      },
+      {
+        "topic_a": "image / algorithms / method",
+        "topic_b": "(single topic)",
+        "keywords_a": [
+          "image",
+          "algorithms",
+          "method",
+          "cells",
+          "thresholding",
+          "different"
+        ],
+        "keywords_b": [],
+        "size_a": 17,
+        "size_b": 0,
+        "bridge_papers": 196,
+        "prominence": 0.09
+      }
+    ],
+    "no_clustering": [
+      {
+        "topic_a": "deep",
+        "topic_b": "paper",
+        "keywords_a": [
+          "deep"
+        ],
+        "keywords_b": [
+          "paper"
+        ],
+        "size_a": 76,
+        "size_b": 101,
+        "bridge_papers": 12,
+        "prominence": 6.74
+      },
+      {
+        "topic_a": "accurate",
+        "topic_b": "segment",
+        "keywords_a": [
+          "accurate"
+        ],
+        "keywords_b": [
+          "segment"
+        ],
+        "size_a": 69,
+        "size_b": 71,
+        "bridge_papers": 11,
+        "prominence": 5.83
+      },
+      {
+        "topic_a": "imaging",
+        "topic_b": "model",
+        "keywords_a": [
+          "imaging"
+        ],
+        "keywords_b": [
+          "model"
+        ],
+        "size_a": 70,
+        "size_b": 69,
+        "bridge_papers": 11,
+        "prominence": 5.79
+      },
+      {
+        "topic_a": "deep",
+        "topic_b": "time",
+        "keywords_a": [
+          "deep"
+        ],
+        "keywords_b": [
+          "time"
+        ],
+        "size_a": 76,
+        "size_b": 74,
+        "bridge_papers": 12,
+        "prominence": 5.77
+      },
+      {
+        "topic_a": "deep",
+        "topic_b": "segment",
+        "keywords_a": [
+          "deep"
+        ],
+        "keywords_b": [
+          "segment"
+        ],
+        "size_a": 76,
+        "size_b": 71,
+        "bridge_papers": 12,
+        "prominence": 5.65
+      },
+      {
+        "topic_a": "model",
+        "topic_b": "time",
+        "keywords_a": [
+          "model"
+        ],
+        "keywords_b": [
+          "time"
+        ],
+        "size_a": 69,
+        "size_b": 74,
+        "bridge_papers": 12,
+        "prominence": 5.5
+      },
+      {
+        "topic_a": "learning",
+        "topic_b": "paper",
+        "keywords_a": [
+          "learning"
+        ],
+        "keywords_b": [
+          "paper"
+        ],
+        "size_a": 90,
+        "size_b": 101,
+        "bridge_papers": 17,
+        "prominence": 5.3
+      },
+      {
+        "topic_a": "imaging",
+        "topic_b": "paper",
+        "keywords_a": [
+          "imaging"
+        ],
+        "keywords_b": [
+          "paper"
+        ],
+        "size_a": 70,
+        "size_b": 101,
+        "bridge_papers": 15,
+        "prominence": 5.26
+      }
+    ],
+    "lda": [
+      {
+        "topic_a": "blood / white / images",
+        "topic_b": "images / learning / cells",
+        "keywords_a": [
+          "blood",
+          "white",
+          "images",
+          "cells",
+          "proposed",
+          "leukemia"
+        ],
+        "keywords_b": [
+          "images",
+          "learning",
+          "cells",
+          "deep",
+          "based",
+          "data"
+        ],
+        "size_a": 26,
+        "size_b": 51,
+        "bridge_papers": 97,
+        "prominence": 0.37
+      },
+      {
+        "topic_a": "cells / image / method",
+        "topic_b": "net / images / cells",
+        "keywords_a": [
+          "cells",
+          "image",
+          "method",
+          "images",
+          "results",
+          "based"
+        ],
+        "keywords_b": [
+          "net",
+          "images",
+          "cells",
+          "proposed",
+          "image",
+          "method"
+        ],
+        "size_a": 48,
+        "size_b": 14,
+        "bridge_papers": 75,
+        "prominence": 0.34
+      },
+      {
+        "topic_a": "cells / image / method",
+        "topic_b": "images / learning / cells",
+        "keywords_a": [
+          "cells",
+          "image",
+          "method",
+          "images",
+          "results",
+          "based"
+        ],
+        "keywords_b": [
+          "images",
+          "learning",
+          "cells",
+          "deep",
+          "based",
+          "data"
+        ],
+        "size_a": 48,
+        "size_b": 51,
+        "bridge_papers": 143,
+        "prominence": 0.34
+      },
+      {
+        "topic_a": "blood / white / images",
+        "topic_b": "net / images / cells",
+        "keywords_a": [
+          "blood",
+          "white",
+          "images",
+          "cells",
+          "proposed",
+          "leukemia"
+        ],
+        "keywords_b": [
+          "net",
+          "images",
+          "cells",
+          "proposed",
+          "image",
+          "method"
+        ],
+        "size_a": 26,
+        "size_b": 14,
+        "bridge_papers": 59,
+        "prominence": 0.32
+      },
+      {
+        "topic_a": "net / images / cells",
+        "topic_b": "images / learning / cells",
+        "keywords_a": [
+          "net",
+          "images",
+          "cells",
+          "proposed",
+          "image",
+          "method"
+        ],
+        "keywords_b": [
+          "images",
+          "learning",
+          "cells",
+          "deep",
+          "based",
+          "data"
+        ],
+        "size_a": 14,
+        "size_b": 51,
+        "bridge_papers": 94,
+        "prominence": 0.28
+      },
+      {
+        "topic_a": "blood / white / images",
+        "topic_b": "cells / image / method",
+        "keywords_a": [
+          "blood",
+          "white",
+          "images",
+          "cells",
+          "proposed",
+          "leukemia"
+        ],
+        "keywords_b": [
+          "cells",
+          "image",
+          "method",
+          "images",
+          "results",
+          "based"
+        ],
+        "size_a": 26,
+        "size_b": 48,
+        "bridge_papers": 152,
+        "prominence": 0.23
+      },
+      {
+        "topic_a": "images / learning / cells",
+        "topic_b": "cells / image / images",
+        "keywords_a": [
+          "images",
+          "learning",
+          "cells",
+          "deep",
+          "based",
+          "data"
+        ],
+        "keywords_b": [
+          "cells",
+          "image",
+          "images",
+          "algorithm",
+          "using",
+          "color"
+        ],
+        "size_a": 51,
+        "size_b": 22,
+        "bridge_papers": 154,
+        "prominence": 0.22
+      },
+      {
+        "topic_a": "blood / method / image",
+        "topic_b": "images / learning / cells",
+        "keywords_a": [
+          "blood",
+          "method",
+          "image",
+          "cells",
+          "based",
+          "methods"
+        ],
+        "keywords_b": [
+          "images",
+          "learning",
+          "cells",
+          "deep",
+          "based",
+          "data"
+        ],
+        "size_a": 16,
+        "size_b": 51,
+        "bridge_papers": 135,
+        "prominence": 0.21
+      }
+    ]
+  }
+}

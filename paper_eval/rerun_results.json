@@ -1,0 +1,222 @@
+{
+  "medical imaging": {
+    "job_id": "883636182d80",
+    "query": "medical image segmentation",
+    "status": "done",
+    "error": null,
+    "report_source": "llm",
+    "run_stats": {
+      "query_string": "medical image segmentation",
+      "papers_requested": 300,
+      "retrieval_date": "2026-09-18 16:41:32 IST",
+      "umap_random_state": 42,
+      "collection": {
+        "from_cache": false,
+        "s2_papers": 300,
+        "openalex_papers": 0,
+        "raw_total": 300,
+        "duplicates_removed": 2,
+        "merged": 298
+      },
+      "merged_papers": 298,
+      "short_or_missing_abstract_removed": 0,
+      "final_corpus": 298,
+      "topics": 15,
+      "outliers": 38,
+      "candidates": 8,
+      "timings_sec": {
+        "collection": 32.0,
+        "preprocessing": 0.0,
+        "embedding": 2.03,
+        "clustering": 0.37,
+        "gap_detection": 0.0,
+        "agent_validation": 59.6,
+        "synthesis": 14.15,
+        "total": 108.19
+      }
+    },
+    "papers_count": 298,
+    "topics": 15,
+    "gaps": 8,
+    "confirmed": 0,
+    "weak": 0,
+    "rejected": 8,
+    "unverified": 0
+  },
+  "marine biology": {
+    "job_id": "eb3e2ba2b93a",
+    "query": "marine biology",
+    "status": "done",
+    "error": null,
+    "report_source": "llm",
+    "run_stats": {
+      "query_string": "marine biology",
+      "papers_requested": 300,
+      "retrieval_date": "2026-09-18 16:43:22 IST",
+      "umap_random_state": 42,
+      "collection": {
+        "from_cache": false,
+        "s2_papers": 38,
+        "openalex_papers": 262,
+        "raw_total": 300,
+        "duplicates_removed": 105,
+        "merged": 195
+      },
+      "merged_papers": 195,
+      "short_or_missing_abstract_removed": 20,
+      "final_corpus": 175,
+      "topics": 10,
+      "outliers": 16,
+      "candidates": 8,
+      "timings_sec": {
+        "collection": 21.92,
+        "preprocessing": 0.0,
+        "embedding": 0.93,
+        "clustering": 0.21,
+        "gap_detection": 0.0,
+        "agent_validation": 42.65,
+        "synthesis": 42.0,
+        "total": 107.74
+      }
+    },
+    "papers_count": 175,
+    "topics": 10,
+    "gaps": 8,
+    "confirmed": 7,
+    "weak": 0,
+    "rejected": 1,
+    "unverified": 0
+  },
+  "migraine research": {
+    "job_id": "ace54f00b2fe",
+    "query": "migraine prediction machine learning",
+    "status": "done",
+    "error": null,
+    "report_source": "llm",
+    "run_stats": {
+      "query_string": "migraine prediction machine learning",
+      "papers_requested": 300,
+      "retrieval_date": "2026-09-18 16:45:12 IST",
+      "umap_random_state": 42,
+      "collection": {
+        "from_cache": false,
+        "s2_papers": 87,
+        "openalex_papers": 213,
+        "raw_total": 300,
+        "duplicates_removed": 36,
+        "merged": 264
+      },
+      "merged_papers": 264,
+      "short_or_missing_abstract_removed": 3,
+      "final_corpus": 261,
+      "topics": 13,
+      "outliers": 20,
+      "candidates": 8,
+      "timings_sec": {
+        "collection": 24.59,
+        "preprocessing": 0.0,
+        "embedding": 1.22,
+        "clustering": 0.33,
+        "gap_detection": 0.0,
+        "agent_validation": 48.03,
+        "synthesis": 25.06,
+        "total": 99.25
+      }
+    },
+    "papers_count": 261,
+    "topics": 13,
+    "gaps": 8,
+    "confirmed": 2,
+    "weak": 1,
+    "rejected": 5,
+    "unverified": 0
+  },
+  "drug discovery": {
+    "job_id": "b183c50b2348",
+    "query": "graph neural networks drug discovery",
+    "status": "done",
+    "error": null,
+    "report_source": "llm",
+    "run_stats": {
+      "query_string": "graph neural networks drug discovery",
+      "papers_requested": 300,
+      "retrieval_date": "2026-09-18 16:46:52 IST",
+      "umap_random_state": 42,
+      "collection": {
+        "from_cache": false,
+        "s2_papers": 0,
+        "openalex_papers": 300,
+        "raw_total": 300,
+        "duplicates_removed": 7,
+        "merged": 293
+      },
+      "merged_papers": 293,
+      "short_or_missing_abstract_removed": 1,
+      "final_corpus": 292,
+      "topics": 9,
+      "outliers": 8,
+      "candidates": 8,
+      "timings_sec": {
+        "collection": 18.88,
+        "preprocessing": 0.0,
+        "embedding": 1.44,
+        "clustering": 0.35,
+        "gap_detection": 0.0,
+        "agent_validation": 38.92,
+        "synthesis": 31.47,
+        "total": 91.09
+      }
+    },
+    "papers_count": 292,
+    "topics": 9,
+    "gaps": 8,
+    "confirmed": 3,
+    "weak": 0,
+    "rejected": 5,
+    "unverified": 0
+  },
+  "cell segmentation": {
+    "job_id": "5bfdf0a62b7d",
+    "query": "cell segmentation",
+    "status": "done",
+    "error": null,
+    "report_source": "llm",
+    "run_stats": {
+      "query_string": "cell segmentation",
+      "papers_requested": 300,
+      "retrieval_date": "2026-09-18 16:48:33 IST",
+      "umap_random_state": 42,
+      "collection": {
+        "from_cache": false,
+        "s2_papers": 0,
+        "openalex_papers": 300,
+        "raw_total": 300,
+        "duplicates_removed": 8,
+        "merged": 292
+      },
+      "merged_papers": 292,
+      "short_or_missing_abstract_removed": 2,
+      "final_corpus": 290,
+      "topics": 15,
+      "outliers": 34,
+      "candidates": 8,
+      "timings_sec": {
+        "collection": 16.96,
+        "preprocessing": 0.0,
+        "embedding": 1.39,
+        "clustering": 0.34,
+        "gap_detection": 0.0,
+        "agent_validation": 33.63,
+        "synthesis": 41.37,
+        "total": 93.72
+      }
+    },
+    "papers_count": 290,
+    "topics": 15,
+    "gaps": 8,
+    "confirmed": 8,
+    "weak": 0,
+    "rejected": 0,
+    "unverified": 0
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "query": "medical imaging",
+    "n_topics": 15,
+    "n_docs": 298,
+    "topics_scored": 15,
+    "C_V": 0.5727,
+    "NPMI": -0.0224,
+    "Diversity": 0.7867,
+    "diversity_basis": "118 unique / 150 total"
+  },
+  {
+    "query": "marine biology",
+    "n_topics": 10,
+    "n_docs": 175,
+    "topics_scored": 10,
+    "C_V": 0.4459,
+    "NPMI": -0.1364,
+    "Diversity": 0.95,
+    "diversity_basis": "95 unique / 100 total"
+  },
+  {
+    "query": "migraine research",
+    "n_topics": 13,
+    "n_docs": 261,
+    "topics_scored": 13,
+    "C_V": 0.5106,
+    "NPMI": -0.0529,
+    "Diversity": 0.7615,
+    "diversity_basis": "99 unique / 130 total"
+  },
+  {
+    "query": "drug discovery",
+    "n_topics": 9,
+    "n_docs": 292,
+    "topics_scored": 9,
+    "C_V": 0.5949,
+    "NPMI": 0.0436,
+    "Diversity": 0.7222,
+    "diversity_basis": "65 unique / 90 total"
+  },
+  {
+    "query": "cell segmentation",
+    "n_topics": 15,
+    "n_docs": 290,
+    "topics_scored": 15,
+    "C_V": 0.5256,
+    "NPMI": -0.0325,
+    "Diversity": 0.68,
+    "diversity_basis": "102 unique / 150 total"
+  }
+]

@@ -1,0 +1,612 @@
+{
+  "medical imaging": [
+    {
+      "topic_a": "Semi-supervised learning",
+      "topic_b": "Cardiac MRI segmentation",
+      "keywords_a": [
+        "Semi-supervised learning"
+      ],
+      "keywords_b": [
+        "Cardiac MRI segmentation"
+      ],
+      "gap": "Semi-supervised methods for cardiac MRI segmentation remain under-explored in scenarios where labeled data spans only a single cardiac phase, leaving multi-phase generalization largely unaddressed.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Federated learning",
+      "topic_b": "Tumor boundary delineation",
+      "keywords_a": [
+        "Federated learning"
+      ],
+      "keywords_b": [
+        "Tumor boundary delineation"
+      ],
+      "gap": "Federated learning frameworks have rarely been evaluated specifically on fine-grained tumor boundary delineation tasks, where inter-site annotation inconsistency critically degrades boundary precision.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Uncertainty quantification",
+      "topic_b": "Retinal layer segmentation",
+      "keywords_a": [
+        "Uncertainty quantification"
+      ],
+      "keywords_b": [
+        "Retinal layer segmentation"
+      ],
+      "gap": "Principled uncertainty quantification methods are seldom integrated into retinal layer segmentation pipelines, leaving clinicians without reliable confidence maps for pathological regions such as drusen or fluid.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Vision-language models",
+      "topic_b": "Abdominal organ segmentation",
+      "keywords_a": [
+        "Vision-language models"
+      ],
+      "keywords_b": [
+        "Abdominal organ segmentation"
+      ],
+      "gap": "The use of vision-language models to guide abdominal organ segmentation through free-text clinical prompts is largely unexplored, despite the potential to handle rare or composite anatomical queries.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Continual learning",
+      "topic_b": "Brain lesion segmentation",
+      "keywords_a": [
+        "Continual learning"
+      ],
+      "keywords_b": [
+        "Brain lesion segmentation"
+      ],
+      "gap": "Continual learning strategies for brain lesion segmentation have not been sufficiently studied in settings where new lesion types or imaging protocols are introduced sequentially without access to prior training data.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Diffusion generative models",
+      "topic_b": "Histopathology gland segmentation",
+      "keywords_a": [
+        "Diffusion generative models"
+      ],
+      "keywords_b": [
+        "Histopathology gland segmentation"
+      ],
+      "gap": "Diffusion models have been minimally investigated as data augmentation or pseudo-label generators specifically for histopathology gland segmentation, where stain variability and morphological diversity pose persistent challenges.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Domain adaptation",
+      "topic_b": "Fetal ultrasound segmentation",
+      "keywords_a": [
+        "Domain adaptation"
+      ],
+      "keywords_b": [
+        "Fetal ultrasound segmentation"
+      ],
+      "gap": "Unsupervised domain adaptation techniques are insufficiently developed for fetal ultrasound segmentation across different gestational ages and machine vendors, where acoustic shadow artifacts vary substantially.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Active learning",
+      "topic_b": "Prostate zone segmentation",
+      "keywords_a": [
+        "Active learning"
+      ],
+      "keywords_b": [
+        "Prostate zone segmentation"
+      ],
+      "gap": "Active learning query strategies tailored to the ambiguous and overlapping boundaries between prostate zones in multi-parametric MRI have received little dedicated research attention.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    }
+  ],
+  "marine biology": [
+    {
+      "topic_a": "deep-sea ecology",
+      "topic_b": "microplastic pollution",
+      "keywords_a": [
+        "deep-sea ecology"
+      ],
+      "keywords_b": [
+        "microplastic pollution"
+      ],
+      "gap": "The long-term effects of microplastic accumulation on deep-sea benthic community structure and food web dynamics remain poorly characterized.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "coral reef biology",
+      "topic_b": "virology",
+      "keywords_a": [
+        "coral reef biology"
+      ],
+      "keywords_b": [
+        "virology"
+      ],
+      "gap": "The diversity, transmission pathways, and ecological roles of viruses infecting coral-associated microbial communities are largely unexplored.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "marine mammal acoustics",
+      "topic_b": "anthropogenic noise pollution",
+      "keywords_a": [
+        "marine mammal acoustics"
+      ],
+      "keywords_b": [
+        "anthropogenic noise pollution"
+      ],
+      "gap": "The cumulative, multigenerational impacts of chronic low-level shipping noise on cetacean communication and reproductive success are insufficiently studied.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "seagrass ecology",
+      "topic_b": "carbon sequestration",
+      "keywords_a": [
+        "seagrass ecology"
+      ],
+      "keywords_b": [
+        "carbon sequestration"
+      ],
+      "gap": "How seagrass genetic diversity influences the efficiency and stability of blue carbon storage across different climate scenarios is not well understood.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "marine invertebrate physiology",
+      "topic_b": "ocean acidification",
+      "keywords_a": [
+        "marine invertebrate physiology"
+      ],
+      "keywords_b": [
+        "ocean acidification"
+      ],
+      "gap": "The mechanisms by which non-calcifying marine invertebrates physiologically adapt to progressively acidifying conditions across multiple generations remain underinvestigated.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "polar marine biology",
+      "topic_b": "microbial ecology",
+      "keywords_a": [
+        "polar marine biology"
+      ],
+      "keywords_b": [
+        "microbial ecology"
+      ],
+      "gap": "The functional roles of under-ice microbial communities in Arctic and Antarctic nutrient cycling during rapid sea-ice loss events are poorly documented.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "fish sensory biology",
+      "topic_b": "light pollution",
+      "keywords_a": [
+        "fish sensory biology"
+      ],
+      "keywords_b": [
+        "light pollution"
+      ],
+      "gap": "The effects of artificial light at night on the sensory orientation, migration, and predator-prey interactions of coastal fish species are critically understudied.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "marine larval dispersal",
+      "topic_b": "epigenetics",
+      "keywords_a": [
+        "marine larval dispersal"
+      ],
+      "keywords_b": [
+        "epigenetics"
+      ],
+      "gap": "Whether epigenetic modifications acquired during larval dispersal influence settlement behavior and post-settlement survival in marine invertebrates is largely unknown.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    }
+  ],
+  "migraine research": [
+    {
+      "topic_a": "Wearable biosensor data",
+      "topic_b": "Prodrome phase detection",
+      "keywords_a": [
+        "Wearable biosensor data"
+      ],
+      "keywords_b": [
+        "Prodrome phase detection"
+      ],
+      "gap": "There is insufficient research on using continuous wearable biosensor streams (heart rate variability, skin conductance) specifically to detect the prodrome phase hours before migraine onset rather than predicting attacks from interictal baselines.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Gut microbiome profiling",
+      "topic_b": "Feature engineering for ML models",
+      "keywords_a": [
+        "Gut microbiome profiling"
+      ],
+      "keywords_b": [
+        "Feature engineering for ML models"
+      ],
+      "gap": "The translation of gut microbiome compositional data into meaningful engineered features for migraine prediction models remains largely unexplored despite known gut-brain axis involvement in migraine pathophysiology.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Federated learning",
+      "topic_b": "Patient-specific personalization",
+      "keywords_a": [
+        "Federated learning"
+      ],
+      "keywords_b": [
+        "Patient-specific personalization"
+      ],
+      "gap": "Federated learning frameworks that enable privacy-preserving collaborative training while simultaneously adapting to individual patient migraine patterns have not been adequately investigated.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Retinal imaging biomarkers",
+      "topic_b": "Deep learning classification",
+      "keywords_a": [
+        "Retinal imaging biomarkers"
+      ],
+      "keywords_b": [
+        "Deep learning classification"
+      ],
+      "gap": "Deep learning models trained on retinal vasculature changes as non-invasive biomarkers for imminent migraine prediction represent a critically underexplored intersection.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Menstrual cycle hormonal fluctuations",
+      "topic_b": "Time-series forecasting models",
+      "keywords_a": [
+        "Menstrual cycle hormonal fluctuations"
+      ],
+      "keywords_b": [
+        "Time-series forecasting models"
+      ],
+      "gap": "Time-series forecasting architectures that explicitly incorporate hormonal cycle phase as a structured temporal covariate for menstrual migraine prediction are largely absent from the literature.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Natural language processing",
+      "topic_b": "Patient-reported symptom diaries",
+      "keywords_a": [
+        "Natural language processing"
+      ],
+      "keywords_b": [
+        "Patient-reported symptom diaries"
+      ],
+      "gap": "NLP methods applied to unstructured free-text migraine diary entries to extract nuanced prodromal symptom signals for predictive modeling remain substantially underdeveloped.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Sleep architecture analysis",
+      "topic_b": "Multi-day lag prediction windows",
+      "keywords_a": [
+        "Sleep architecture analysis"
+      ],
+      "keywords_b": [
+        "Multi-day lag prediction windows"
+      ],
+      "gap": "The relationship between polysomnographic sleep stage disruptions and migraine occurrence across multi-day lag windows has not been systematically modeled using machine learning approaches.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Explainability and interpretability methods",
+      "topic_b": "Clinical decision support integration",
+      "keywords_a": [
+        "Explainability and interpretability methods"
+      ],
+      "keywords_b": [
+        "Clinical decision support integration"
+      ],
+      "gap": "Research on how explainability techniques such as SHAP or LIME can be specifically tailored to make migraine prediction model outputs actionable and trustworthy for neurologists in clinical workflows is critically lacking.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    }
+  ],
+  "drug discovery": [
+    {
+      "topic_a": "Explainability of GNNs",
+      "topic_b": "ADMET property prediction",
+      "keywords_a": [
+        "Explainability of GNNs"
+      ],
+      "keywords_b": [
+        "ADMET property prediction"
+      ],
+      "gap": "There is insufficient research on how GNN explanations for ADMET predictions can be translated into chemically meaningful and actionable insights for medicinal chemists.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Federated learning",
+      "topic_b": "GNN-based molecular property prediction",
+      "keywords_a": [
+        "Federated learning"
+      ],
+      "keywords_b": [
+        "GNN-based molecular property prediction"
+      ],
+      "gap": "The combination of federated learning with GNNs for drug discovery remains underexplored, particularly regarding how to handle heterogeneous molecular graph representations across institutions without sharing proprietary data.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Protein-protein interaction networks",
+      "topic_b": "GNN-based polypharmacology modeling",
+      "keywords_a": [
+        "Protein-protein interaction networks"
+      ],
+      "keywords_b": [
+        "GNN-based polypharmacology modeling"
+      ],
+      "gap": "GNN frameworks that jointly model protein-protein interaction networks and multi-target drug binding to predict polypharmacological profiles remain largely underdeveloped.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Uncertainty quantification",
+      "topic_b": "GNN-based virtual screening",
+      "keywords_a": [
+        "Uncertainty quantification"
+      ],
+      "keywords_b": [
+        "GNN-based virtual screening"
+      ],
+      "gap": "Principled uncertainty quantification methods tailored to GNN architectures in virtual screening pipelines are underexplored, leaving practitioners without reliable confidence estimates for hit prioritization.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Crystal structure prediction",
+      "topic_b": "GNNs for solid-state drug formulation",
+      "keywords_a": [
+        "Crystal structure prediction"
+      ],
+      "keywords_b": [
+        "GNNs for solid-state drug formulation"
+      ],
+      "gap": "The use of GNNs to predict solid-state properties relevant to drug formulation, such as polymorphism and solubility in crystalline forms, has received very little attention compared to solution-phase property prediction.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Scaffold-based generative models",
+      "topic_b": "GNN-guided synthesis planning",
+      "keywords_a": [
+        "Scaffold-based generative models"
+      ],
+      "keywords_b": [
+        "GNN-guided synthesis planning"
+      ],
+      "gap": "There is a lack of integrated frameworks that couple GNN-based scaffold-constrained molecular generation with retrosynthetic feasibility scoring in a single end-to-end pipeline.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Temporal graph networks",
+      "topic_b": "Drug resistance evolution modeling",
+      "keywords_a": [
+        "Temporal graph networks"
+      ],
+      "keywords_b": [
+        "Drug resistance evolution modeling"
+      ],
+      "gap": "Temporal or dynamic GNN approaches that model the evolutionary trajectory of pathogen mutation networks to anticipate drug resistance have been largely overlooked in the drug discovery literature.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "Few-shot learning",
+      "topic_b": "GNNs for rare disease target identification",
+      "keywords_a": [
+        "Few-shot learning"
+      ],
+      "keywords_b": [
+        "GNNs for rare disease target identification"
+      ],
+      "gap": "Adapting few-shot GNN learning strategies specifically for target identification in rare diseases, where labeled biological data is extremely scarce, remains a critically underexplored research direction.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    }
+  ],
+  "cell segmentation": [
+    {
+      "topic_a": "transformer-based segmentation models",
+      "topic_b": "label-efficient learning",
+      "keywords_a": [
+        "transformer-based segmentation models"
+      ],
+      "keywords_b": [
+        "label-efficient learning"
+      ],
+      "gap": "Transformer architectures for cell segmentation have rarely been adapted to semi-supervised or few-shot regimes where annotated microscopy data is extremely scarce.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "instance segmentation",
+      "topic_b": "highly overlapping or touching cells",
+      "keywords_a": [
+        "instance segmentation"
+      ],
+      "keywords_b": [
+        "highly overlapping or touching cells"
+      ],
+      "gap": "Current instance segmentation methods struggle to reliably separate densely packed or overlapping cells in 3D volumetric tissue images without requiring extensive manual correction.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "domain adaptation",
+      "topic_b": "cross-modality cell segmentation",
+      "keywords_a": [
+        "domain adaptation"
+      ],
+      "keywords_b": [
+        "cross-modality cell segmentation"
+      ],
+      "gap": "Adapting segmentation models trained on one imaging modality (e.g., brightfield) to another (e.g., fluorescence or phase contrast) remains poorly explored, particularly without paired training data.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "uncertainty quantification",
+      "topic_b": "automated cell segmentation pipelines",
+      "keywords_a": [
+        "uncertainty quantification"
+      ],
+      "keywords_b": [
+        "automated cell segmentation pipelines"
+      ],
+      "gap": "Principled uncertainty estimation integrated directly into end-to-end cell segmentation pipelines to flag low-confidence predictions for human review is largely underdeveloped.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "cell morphology analysis",
+      "topic_b": "real-time segmentation",
+      "keywords_a": [
+        "cell morphology analysis"
+      ],
+      "keywords_b": [
+        "real-time segmentation"
+      ],
+      "gap": "Simultaneously achieving real-time segmentation speed and sufficient morphological detail for downstream phenotypic analysis in live-cell imaging remains an underexplored trade-off.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "self-supervised representation learning",
+      "topic_b": "rare or abnormal cell types",
+      "keywords_a": [
+        "self-supervised representation learning"
+      ],
+      "keywords_b": [
+        "rare or abnormal cell types"
+      ],
+      "gap": "Self-supervised pretraining strategies have not been sufficiently investigated for improving segmentation of rare or pathological cell populations that are severely underrepresented in training datasets.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "graph neural networks",
+      "topic_b": "spatial context in tissue segmentation",
+      "keywords_a": [
+        "graph neural networks"
+      ],
+      "keywords_b": [
+        "spatial context in tissue segmentation"
+      ],
+      "gap": "Graph neural network approaches that explicitly encode spatial neighborhood relationships between cells to improve individual cell boundary delineation in tissue sections remain largely unexplored.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    },
+    {
+      "topic_a": "continual learning",
+      "topic_b": "evolving microscopy protocols",
+      "keywords_a": [
+        "continual learning"
+      ],
+      "keywords_b": [
+        "evolving microscopy protocols"
+      ],
+      "gap": "Continual or incremental learning frameworks that allow cell segmentation models to adapt to new cell types or imaging conditions over time without catastrophic forgetting are critically understudied.",
+      "size_a": null,
+      "size_b": null,
+      "bridge_papers": null,
+      "prominence": null
+    }
+  ]
+}

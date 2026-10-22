@@ -1,0 +1,46 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies / virtualenvs
+node_modules/
+venv/
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+dist-ssr/
+build/
+*.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs and runtime artifacts
+logs/
+*.log
+engine/jobs/
+
+# Model caches (Sentence-BERT / HuggingFace downloads)
+.cache/
+models/
+*.safetensors
+*.bin
+*.pt
+
+# Downloaded paper / embedding data (re-fetched on each run).
+# engine/cache/validation_cache.json is kept on purpose: it is expensive to rebuild.
+engine/cache/*
+!engine/cache/validation_cache.json
+*.npy
+*.npz
+*.faiss

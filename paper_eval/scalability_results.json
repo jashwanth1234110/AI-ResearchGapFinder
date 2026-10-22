@@ -1,0 +1,165 @@
+[
+  {
+    "n_requested": 150,
+    "query": "medical image segmentation",
+    "status": "pipeline_error",
+    "total_s": 29.11,
+    "error": "Not enough distinct topics found for gap analysis on 'medical image segmentation' \u2014 148 papers were analyzed, but they only separated into 3 topic cluster(s) (unet / transformer / model (93 papers); semisupervised / model / data (46 papers); mamba / model / computational (9 papers)). At least 4 distinct topics are needed for reliable cross-topic gap analysis. Try a broader or related keyword.",
+    "peak_rss_mb": 618.0
+  },
+  {
+    "n_requested": 300,
+    "query": "medical image segmentation",
+    "status": "ok",
+    "total_s": 61.46,
+    "final_corpus": 298,
+    "topics": 15,
+    "outliers": 38,
+    "candidates": 8,
+    "confirmed": 0,
+    "timings": {
+      "collection": 0.0,
+      "preprocessing": 0.0,
+      "embedding": 7.35,
+      "clustering": 5.95,
+      "gap_detection": 0.0,
+      "agent_validation": 38.63,
+      "synthesis": 9.49,
+      "total": 61.46
+    },
+    "collection": {
+      "from_cache": true,
+      "s2_papers": null,
+      "openalex_papers": null,
+      "raw_total": null,
+      "duplicates_removed": null,
+      "merged": 298
+    },
+    "report_source": "llm",
+    "peak_rss_mb": 649.6
+  },
+  {
+    "n_requested": 500,
+    "query": "medical image segmentation",
+    "status": "ok",
+    "total_s": 154.35,
+    "final_corpus": 493,
+    "topics": 10,
+    "outliers": 87,
+    "candidates": 8,
+    "confirmed": 2,
+    "timings": {
+      "collection": 66.07,
+      "preprocessing": 0.01,
+      "embedding": 8.37,
+      "clustering": 6.3,
+      "gap_detection": 0.0,
+      "agent_validation": 48.19,
+      "synthesis": 25.38,
+      "total": 154.35
+    },
+    "collection": {
+      "from_cache": false,
+      "s2_papers": 500,
+      "openalex_papers": 0,
+      "raw_total": 500,
+      "duplicates_removed": 7,
+      "merged": 493
+    },
+    "report_source": "llm",
+    "peak_rss_mb": 673.8
+  },
+  {
+    "n_requested": 1000,
+    "query": "medical image segmentation",
+    "status": "ok",
+    "total_s": 179.59,
+    "final_corpus": 796,
+    "topics": 14,
+    "outliers": 186,
+    "candidates": 8,
+    "confirmed": 1,
+    "timings": {
+      "collection": 83.08,
+      "preprocessing": 0.01,
+      "embedding": 9.77,
+      "clustering": 6.84,
+      "gap_detection": 0.0,
+      "agent_validation": 52.83,
+      "synthesis": 27.02,
+      "total": 179.59
+    },
+    "collection": {
+      "from_cache": false,
+      "s2_papers": 694,
+      "openalex_papers": 306,
+      "raw_total": 1000,
+      "duplicates_removed": 203,
+      "merged": 797
+    },
+    "report_source": "llm",
+    "peak_rss_mb": 704.9
+  },
+  {
+    "n_requested": 2000,
+    "query": "medical image segmentation",
+    "status": "ok",
+    "total_s": 179.42,
+    "final_corpus": 1682,
+    "topics": 7,
+    "outliers": 310,
+    "candidates": 8,
+    "confirmed": 0,
+    "timings": {
+      "collection": 81.86,
+      "preprocessing": 0.02,
+      "embedding": 13.81,
+      "clustering": 8.54,
+      "gap_detection": 0.0,
+      "agent_validation": 49.32,
+      "synthesis": 25.85,
+      "total": 179.42
+    },
+    "collection": {
+      "from_cache": false,
+      "s2_papers": 283,
+      "openalex_papers": 1717,
+      "raw_total": 2000,
+      "duplicates_removed": 307,
+      "merged": 1693
+    },
+    "report_source": "llm",
+    "peak_rss_mb": 800.0
+  },
+  {
+    "n_requested": 5000,
+    "query": "medical image segmentation",
+    "status": "ok",
+    "total_s": 247.59,
+    "final_corpus": 4403,
+    "topics": 5,
+    "outliers": 381,
+    "candidates": 8,
+    "confirmed": 1,
+    "timings": {
+      "collection": 138.0,
+      "preprocessing": 0.03,
+      "embedding": 24.99,
+      "clustering": 16.38,
+      "gap_detection": 0.11,
+      "agent_validation": 49.95,
+      "synthesis": 17.43,
+      "total": 247.59
+    },
+    "collection": {
+      "from_cache": false,
+      "s2_papers": 357,
+      "openalex_papers": 4643,
+      "raw_total": 5000,
+      "duplicates_removed": 574,
+      "merged": 4426
+    },
+    "report_source": "llm",
+    "peak_rss_mb": 994.7
+  }
+]

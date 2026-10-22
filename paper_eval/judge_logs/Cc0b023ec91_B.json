@@ -1,0 +1,21 @@
+{
+  "judge": "B",
+  "model": "claude-opus-5",
+  "sampling": "effort=low (temperature unsupported)",
+  "system_prompt": "You are an expert research-literature reviewer assessing whether a proposed research gap is genuine. You are given two research topics and a sample of recent literature retrieved for their intersection. Decide using ONLY that evidence plus your own domain knowledge.\n\nA gap is GENUINE if the specific intersection of the two topics is materially under-researched. It is ALREADY ADDRESSED if the retrieved literature contains work that directly studies that intersection.\n\nReturn ONLY a JSON object, no prose, with exactly these keys:\n  \"genuine_gap\": \"yes\" or \"no\"\n  \"already_addressed\": \"yes\" or \"no\"\n  \"addressing_paper_ids\": array of evidence ids (e.g. [\"P1\",\"P4\"]), [] if none\n  \"meaningful\": integer 1-5 (is the research direction worth pursuing)\n  \"evidence_sufficient\": integer 1-5 (was the retrieved evidence enough to judge)\n  \"importance\": integer 1-10 (importance of this gap relative to others in the field)\n  \"rationale\": one or two sentences\n",
+  "query_prompt": "Topics:\nA: marine invertebrate physiology\nB: ocean acidification\nWrite ONE literature-search query to find papers addressing BOTH topics together. Reply with the query only, no quotes, no prose.",
+  "search_query": "(ocean acidification OR \"elevated pCO2\" OR \"reduced seawater pH\") AND (marine invertebrate* OR mollusc* OR echinoderm* OR crustacean* OR coral*) AND (physiolog* OR metabolic rate OR acid-base regulati",
+  "evidence": [],
+  "user_prompt": "TOPIC A: marine invertebrate physiology\nkeywords: marine invertebrate physiology\nTOPIC B: ocean acidification\nkeywords: ocean acidification\n\nProposed gap: the intersection of Topic A and Topic B is under-researched.\n\nSEARCH QUERY YOU WROTE: (ocean acidification OR \"elevated pCO2\" OR \"reduced seawater pH\") AND (marine invertebrate* OR mollusc* OR echinoderm* OR crustacean* OR coral*) AND (physiolog* OR metabolic rate OR acid-base regulati\nRECENT LITERATURE RETRIEVED (0 papers, 2021+):\n[]",
+  "raw_response": "{\"genuine_gap\":\"no\",\"already_addressed\":\"yes\",\"addressing_paper_ids\":[],\"meaningful\":2,\"evidence_sufficient\":2,\"importance\":2,\"rationale\":\"Ocean acidification effects on marine invertebrate physiology is one of the most heavily studied areas in marine science over the past two decades, with hundreds of studies and meta-analyses; the zero retrieved papers reflect a search/retrieval failure, not an actual literature gap.\"}",
+  "parsed": {
+    "genuine_gap": "no",
+    "already_addressed": "yes",
+    "addressing_paper_ids": [],
+    "meaningful": 2,
+    "evidence_sufficient": 2,
+    "importance": 2,
+    "rationale": "Ocean acidification effects on marine invertebrate physiology is one of the most heavily studied areas in marine science over the past two decades, with hundreds of studies and meta-analyses; the zero retrieved papers reflect a search/retrieval failure, not an actual literature gap."
+  },
+  "error": null
+}

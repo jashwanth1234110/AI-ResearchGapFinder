@@ -1,0 +1,15 @@
+{
+  "name": "researchgap-ai",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "concurrently -n UI,ENGINE -c blue,green \"npm run dev --prefix ui\" \"cd engine && DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib:/usr/local/lib:$HOME/lib:/usr/lib .venv/bin/python3 -m uvicorn api:app --port 8001\"",
+    "doctor": "node scripts/doctor.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=26"
+  }
+}
